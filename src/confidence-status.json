@@ -1,0 +1,32 @@
+{
+  "chlor_a": {
+    "status": "candidate_rejected",
+    "applies_to_model_ids": [
+      "med-chlor_a-96c1f665d26aaa47dfc0ee50"
+    ],
+    "calibration_id": "confidence-chlor_a-5760fbbb3a8639f609b25e83",
+    "candidate_checkpoint_sha256": "15c0c40d448f2c9e53f61184ab6f4915323eb79cc0e57f7e062c222127e866b2",
+    "message": "The new chlorophyll confidence model did not pass independent reliability checks. Existing chlorophyll estimates remain available without a confidence percentage. A satellite reference for this photo is not required.",
+    "calibration_groups": 20,
+    "evaluation_groups": 21,
+    "expected_calibration_error": 0.1396971255129041,
+    "brier_score": 0.2716423679721091,
+    "constant_baseline_brier": 0.2417953706243436,
+    "example_band": {
+      "index": 3,
+      "lower": 0.6,
+      "upper": 0.8,
+      "photos": 84,
+      "groups": 8,
+      "weight": 1.1477920364372274,
+      "predicted": 0.6503705051367857,
+      "observed": 0.1111999181518048,
+      "absolute_gap": 0.539170586984981,
+      "observed_accuracy_95pct_scene_bootstrap": [
+        0.0,
+        0.14016512205039966
+      ],
+      "release_eligible": false
+    }
+  }
+}

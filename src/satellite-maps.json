@@ -1,0 +1,388 @@
+{
+  "ISS031-E-49951": {
+    "url": "/satellite-maps/ISS031-E-49951-9788efa790b689cf.json",
+    "sha256": "9788efa790b689cf3c6d482e52cee2f6f00411bd6eecf1036268915971b6525b",
+    "input_asset_id": "60e13acfdf76357b02a2f8c066868c83f279e94d906eb8dd8b4e10b9a3166826",
+    "source_sha256": "be3e6516dc6f105ddbb16645ef375d116ab53d9425db644cb8aaffa4b6e7d2ee",
+    "subset_sha256": "f642974f5a073b09d2ad4ca90077e0096cee5ece612ac20b5105f00677b0b9da"
+  },
+  "ISS031-E-49953": {
+    "url": "/satellite-maps/ISS031-E-49953-629c770699c54b27.json",
+    "sha256": "629c770699c54b27d6230fcc711d2098317c0532eb3c89ea2c54ba2796646db9",
+    "input_asset_id": "5b967b52e87aba8d4e333e12a465b5063c70950425938e18b501d38450594a92",
+    "source_sha256": "8f58f69d44532796c2e7f52cc33c19985d54462fa29ec69a032bd3aa2455d992",
+    "subset_sha256": "e7f387f00e212af9ba42a99b5de14888492c49a7a2f7250aac28d24d88411d68"
+  },
+  "ISS031-E-50002": {
+    "url": "/satellite-maps/ISS031-E-50002-140e12c19689bca0.json",
+    "sha256": "140e12c19689bca0ce8e9b1fe694cfbab332d97f4525e75d78a881674020e136",
+    "input_asset_id": "02ee1b2ab5900438ea41cc24b4941e069477f4a2dcab300ad1fe972206ab9602",
+    "source_sha256": "2064d2c4622eaff85625cd8f953d81b23c52d39212d822278b7d0b8fe534beb4",
+    "subset_sha256": "67622c5c9854247bf27e43e2e07acf091db5b66560f816ec3fe074853294bce6"
+  },
+  "ISS031-E-50039": {
+    "url": "/satellite-maps/ISS031-E-50039-0aa1c9e6db151022.json",
+    "sha256": "0aa1c9e6db1510223648a27c16d4bba25cfd2d3d8cade0c9d126edf790c84277",
+    "input_asset_id": "ca5063b2cff84d5d524fa016516cb0dd5970528225d0d09a0e57fed1853e4454",
+    "source_sha256": "898e83858728d12680fc198aefab481f2bbb74cb8f469f12fc4a7c67535f3652",
+    "subset_sha256": "93baf96b1940a8852a11616e3555a4afda44a9be7390c2fcf37ec296f68771ea"
+  },
+  "ISS031-E-50058": {
+    "url": "/satellite-maps/ISS031-E-50058-44ff37b854ea02f4.json",
+    "sha256": "44ff37b854ea02f42ef64e3c38079581cf3fe4c471d3019538618678bcaf55a7",
+    "input_asset_id": "9f27122bac95b0ae2a895080f8b76dfcf01742a8be9f590efaa3b2a02249a32a",
+    "source_sha256": "884bdb6fdf1606c81a2d43f5720d9f96e9cf713d9676d618ebdf83628fd50cf2",
+    "subset_sha256": "b9a018a02e275d03d15fffada685b880e37962b74733c8ce5532c673248d5595"
+  },
+  "ISS031-E-50103": {
+    "url": "/satellite-maps/ISS031-E-50103-3134c869d69efd0b.json",
+    "sha256": "3134c869d69efd0bfeb18b5aa791a92c46361a7d6514442eb24247e7fb5efd5b",
+    "input_asset_id": "e82b99ce06ae27092c4f1492e7c38dcaa3140761db4f737999aad943ec830671",
+    "source_sha256": "e6a881e3b47bfdec3a470538aae0f81e3b62661dd72d9412cce1cc9cdc134652",
+    "subset_sha256": "2a149c0896e1fee2ea3f1c638a02da5d5af78bed45e41465d98301ffcb3efb30"
+  },
+  "ISS042-E-101854": {
+    "url": "/satellite-maps/ISS042-E-101854-665d4c81b63e6d0a.json",
+    "sha256": "665d4c81b63e6d0a70510de0daddfa2c5807cb81a126c2ffd8116e06173a0c54",
+    "input_asset_id": "8f70e3b7e44e5aeba4feb7325b896acdaa6a960f900eaa75ccfac05d86afc96f",
+    "source_sha256": "9b65d4473fb750b55deddd5b8a66994f6068f228c87676ca59c4d612557ed9aa",
+    "subset_sha256": "cd2dffcc060b2889dd4f89216a19e976e4e9895233e5f805ffaf7d82ab707df5"
+  },
+  "ISS042-E-104496": {
+    "url": "/satellite-maps/ISS042-E-104496-d2beef0a5a091627.json",
+    "sha256": "d2beef0a5a09162704619d41f48cffd6f29e3f5a2df6f0d0e5b2af20b2f27164",
+    "input_asset_id": "e1e8b793e8f20f5ca3f7f4899fd61ba73c2858393feb9b0becac890060511c4c",
+    "source_sha256": "268795f10d84f9da8b6fdb0a9132e15b0936d5dc251e8577e6d300298ed81a5d",
+    "subset_sha256": "f6141033895860ac411da6b2e5e485c0e342077473b6cb6e12a062161d8440e6"
+  },
+  "ISS042-E-333350": {
+    "url": "/satellite-maps/ISS042-E-333350-ef1bdf6926b82887.json",
+    "sha256": "ef1bdf6926b8288755e8283c26fc11d69a1a4f51d41a4885a06e6c83ce9ad3f9",
+    "input_asset_id": "a2cee8d4a0e02e79359e068c5b4e6f087e7bb1bb7bb310600d64ac492fc4f210",
+    "source_sha256": "091057215e198ad006e32326e61199109ea951ecac1fd0e936a4353eefbec63e",
+    "subset_sha256": "06844f7d225db3799ddc038d829b1f760dcb774325ee7740367b18853e112029"
+  },
+  "ISS043-E-130790": {
+    "url": "/satellite-maps/ISS043-E-130790-9028357a35353f4e.json",
+    "sha256": "9028357a35353f4ecc1c82554b4d007f76868382dd0259b16dcfbd6f8f9117de",
+    "input_asset_id": "4ab88e7b942cd2814b661ea47a936545dbb49fccd097ecae090188fcc43f0672",
+    "source_sha256": "743c22ce9a6277857f93223874f7f56eecca03e98c574d372c397f11e162310e",
+    "subset_sha256": "e9b395d0bcd938e84570b98a6b2c498bdd0838e0558e390d5bd485a2ea2a8f55"
+  },
+  "ISS051-E-33260": {
+    "url": "/satellite-maps/ISS051-E-33260-8871c37bd77aa186.json",
+    "sha256": "8871c37bd77aa186afcad5b4261a5509c2f639f31766795c683cec35951fb404",
+    "input_asset_id": "8fee595f1a74d39446dad3145658d16cdad89566e2ff04543fb50288c8a04693",
+    "source_sha256": "442ad53f8a5f085227f85a2952845ba7bd11e8914eca5f06c953ccd3dc5c9a74",
+    "subset_sha256": "0297a99b06b6322799d6852a62d82fa6616f8552f9455352f56ab084eb863df0"
+  },
+  "ISS051-E-33415": {
+    "url": "/satellite-maps/ISS051-E-33415-844c25ce28a692b2.json",
+    "sha256": "844c25ce28a692b23b6d7120ec15da92629a94802fc75ff1c4467b059114e1f9",
+    "input_asset_id": "c9e559294c2434e9c7ce3f662ea69f4daa097d6525920e53169fb8ba2274bf47",
+    "source_sha256": "198f99468037287b4a628497f0a320034370e67c819979fc7ab73b1825251996",
+    "subset_sha256": "3d927605e696f34dd88de163f5b3e5709e107384a5adfbde75230a7a53d975fd"
+  },
+  "ISS053-E-103621": {
+    "url": "/satellite-maps/ISS053-E-103621-ab43c5b11673d12e.json",
+    "sha256": "ab43c5b11673d12e875e032a77f04c8deb921d9fa1af18f70364164b64b97d67",
+    "input_asset_id": "ac2086d745e3bf1e50af595ea92011021f8dffa432c7d31b24e91fe49079fa0d",
+    "source_sha256": "63747104b40e23a167ddee6c60525694177265aac3205d8cfa849b2b797927d9",
+    "subset_sha256": "89c9c0b6f1a48a49d069f785412c9a4ba09a0bb8835570855784057537d140f8"
+  },
+  "ISS053-E-103637": {
+    "url": "/satellite-maps/ISS053-E-103637-b0d0cd7dc24085c9.json",
+    "sha256": "b0d0cd7dc24085c9902c256aaa00d0a09176f1b20b68c73065fd103f287b8f63",
+    "input_asset_id": "ed7c3e942bb88193ef91564f298e8598f25d8086df7c625fe1302436d91883bf",
+    "source_sha256": "8cdd155cff4f42e57d5e33373fe897757279ca7113f0ce1cf57dd9367c0e59e8",
+    "subset_sha256": "ad91053f580f95ecddf1c3bf505aedfdaea6a185f8071fe6977a96c33153f83b"
+  },
+  "ISS053-E-398552": {
+    "url": "/satellite-maps/ISS053-E-398552-bf9a57d4bede0057.json",
+    "sha256": "bf9a57d4bede00571c3bbc45b6d0c64ab102c68d375078eb53ab877a847bdb95",
+    "input_asset_id": "3f0d890984f58a9c0c65fbf8c2d56b8b0dcdf49275a75a123b80ffdd5431daf7",
+    "source_sha256": "1c1f5df188d978490ae9c2588542e262ba009520533c4ac3397d87a921662f46",
+    "subset_sha256": "f076e88492760fc0332d75f8348a27487c2a767fe34461882d7c067e686d1e88"
+  },
+  "ISS053-E-398631": {
+    "url": "/satellite-maps/ISS053-E-398631-497728bf20728bbd.json",
+    "sha256": "497728bf20728bbde216eb13277aa6cb0c3c0eeacfb9bbf78a2ca944c46e66e7",
+    "input_asset_id": "959429adddc1dcb3a0a0aef26d650cceedeb13821a2669b69f06cc61ad9685f1",
+    "source_sha256": "1c1bfdde0bb08d88418b2612849daba128d2b32fb311e2493e4ecfc4e3d71bbd",
+    "subset_sha256": "93f41727163d11544d5705e3f516bdf4cf0dd363a9d14060245e9d08ed5ac27e"
+  },
+  "ISS053-E-398653": {
+    "url": "/satellite-maps/ISS053-E-398653-45d050d242250d59.json",
+    "sha256": "45d050d242250d595b63a455d27894b2c3547520b57298f4568c90febb58fc73",
+    "input_asset_id": "93a19dadf50359858f2a53d1115e6d1477edf0cdde03e3d61ef5a2bd93f1501e",
+    "source_sha256": "3dc8a592d070e269316db9125c91261abdda92edb2800a8b9f70751484b838c8",
+    "subset_sha256": "ad763a3799b4b0ef6b0eb53f810c84fb13238cc0ebdd609b0088c4b8e2270557"
+  },
+  "ISS053-E-450": {
+    "url": "/satellite-maps/ISS053-E-450-c976b57d0707025e.json",
+    "sha256": "c976b57d0707025e0e3a03fcfe0223116530a577ef165b3a286730e597025b13",
+    "input_asset_id": "ab3fee7a6e009b648c21b578f6ce75e2bab6224004c338a155c5964f58357dba",
+    "source_sha256": "adb6e8b05e5120e56a29d4c547e6e5750d62da370c3dfa5cb95b51feb745fc0b",
+    "subset_sha256": "957152c6d1da9da970444769d5ab0680e54cf09fb8bbae65af8226026dafc2e7"
+  },
+  "ISS055-E-13186": {
+    "url": "/satellite-maps/ISS055-E-13186-d0c8e021021fd6db.json",
+    "sha256": "d0c8e021021fd6db91e68a52b9a076a8ba816ca52cfd82ca08b659a573971f2b",
+    "input_asset_id": "ab3be59e39fdc5c8353da12ade601c79584688617c401eff6eae40d7a2f78ae3",
+    "source_sha256": "2f7c50d75155ac26f2418d13ca8903f0ee5af8d45d5d7d0b43c277e21582c266",
+    "subset_sha256": "45ad0cb50d2aacd2febb7c58774099e8036a3aa7610e43f5ccd61086d0875ec4"
+  },
+  "ISS062-E-55692": {
+    "url": "/satellite-maps/ISS062-E-55692-334f2873e8db26e5.json",
+    "sha256": "334f2873e8db26e5294ada5c6fc420fac2f30f517b0663a393b0e13f9ddec67a",
+    "input_asset_id": "2a5a050b48687f7872197cbd8bbaa27d1afc0fd2bd0ac2d502f54a5de196907c",
+    "source_sha256": "2f17b48fe354bd5cfbf556221fafc5c703e4e8f738c08880a76951e8a3d5076e",
+    "subset_sha256": "f2a30c9192eac3d336a502c2bc67352b825c655307edfe64ff993a8993bc8ec1"
+  },
+  "ISS062-E-55747": {
+    "url": "/satellite-maps/ISS062-E-55747-f1164becb78d14da.json",
+    "sha256": "f1164becb78d14dac69ca549f84d274700c577de6a4601487127bd40f60d43b1",
+    "input_asset_id": "bb80e5e437ff81b7ae020f40336f40723e9d90028e7c97b634eeda7e4b4cd4e0",
+    "source_sha256": "7cad2fc1ec4f06569e6d975acd89eba7ea3d1d6e88a8dec07b1fdb91dc42f35d",
+    "subset_sha256": "7697b5e8ef5b086d5c5799cea474a4320a321daf2c4c95c5b5b4924f2f094635"
+  },
+  "ISS062-E-55874": {
+    "url": "/satellite-maps/ISS062-E-55874-9050a84a72d3799c.json",
+    "sha256": "9050a84a72d3799cc8f5ca01ad663907822e982fd462e4c661fbefd7d89573a8",
+    "input_asset_id": "fc6b88fc2483a3747465172bd8b65f783dcba3f8938927083e9b7cca73b8de52",
+    "source_sha256": "25d1e8acddea2f17a2d52de6ca94e873b8266d7bec97080ae189c8010474f1a7",
+    "subset_sha256": "401d96549f966f25f4d5cdd34b4e874831926e9e9f6d55328e6aa8c9c162d7eb"
+  },
+  "ISS065-E-300652": {
+    "url": "/satellite-maps/ISS065-E-300652-f0cbaeb35e3a37b6.json",
+    "sha256": "f0cbaeb35e3a37b64080dab25ba36ed02385e281546bbee9ec766d22b67b40ba",
+    "input_asset_id": "f0b00ebc534f06d104324578e45e449f33f3fc042ae7b02ca1e1f58e3aafdb53",
+    "source_sha256": "7538ac22c1fd5ce5b2b55baa2ee2435bfe4680b01a7a1585ec2f0723f0ad0906",
+    "subset_sha256": "a68a8b9bb733a5806f5dba3686a02109f1b2384cf468ac45389d7472f664a776"
+  },
+  "ISS065-E-300705": {
+    "url": "/satellite-maps/ISS065-E-300705-7dec3d11f331223d.json",
+    "sha256": "7dec3d11f331223d2804ac04d2b4ff976ad214d91b3a6f9981b180b68216336f",
+    "input_asset_id": "91be45073cdf8007a62bccfa24b6e690ae87036a55784d8d869ebc58a7c6fd70",
+    "source_sha256": "b989240e99aa040bb54e2314d77d976d4325141c64fe4feaebb92dffbb5a8948",
+    "subset_sha256": "1bb5f01a041aefd4cf625e9972b59c7ad5f79a64f17d6152f02714b00be8ab89"
+  },
+  "ISS065-E-300749": {
+    "url": "/satellite-maps/ISS065-E-300749-bc4d7668b3455c1d.json",
+    "sha256": "bc4d7668b3455c1db6db1ee2ca46b8089fb7f689dd437f00e418c42e51f585de",
+    "input_asset_id": "789fdbcf35eb34e15c6bed66d918590062627ddbe87cb3ebb45bff4a6a0d2b3c",
+    "source_sha256": "3177a424016a4910e652879e8d0caaabe9fb30271f2b474184a47ee082d62a02",
+    "subset_sha256": "a3afe4d9b3ed45a101deb7dfb49161556d5cdc7f24d3769cd9485ed3bbc48307"
+  },
+  "ISS065-E-300800": {
+    "url": "/satellite-maps/ISS065-E-300800-34b1914ed59a1d02.json",
+    "sha256": "34b1914ed59a1d02d96701a4efc489858b7f26597169cfc2a2f4bbc657b0fd70",
+    "input_asset_id": "32fc7b09ec89ef57a09b5977175889ade5a2e825e762ed4e65400e107669eaf3",
+    "source_sha256": "c1bca6787e2ae3612e3fcc24c597b2df5c26fa5b7af50e5ad3c4d1b982133cf1",
+    "subset_sha256": "4629b23d9498d7f3b784c86d2fbb0736afd6218756fa60ae9546f3f73373a018"
+  },
+  "ISS065-E-300806": {
+    "url": "/satellite-maps/ISS065-E-300806-88f17f9ebe96b905.json",
+    "sha256": "88f17f9ebe96b9059672c18b933711baace751553564e6549e1d045d30af5b9a",
+    "input_asset_id": "b8f27291e0da01e8afa9cb04399a12d8984549cd8e7fd0c252c7cc9aea028958",
+    "source_sha256": "422acb8e6d620fc9d8fec8d919c970253785531bd4d21a91cd3c914ba0c5fcce",
+    "subset_sha256": "c302f26e4152b996eb4e9a282033e0c7c64d481ce38e35693f8d45d19ef84b19"
+  },
+  "ISS065-E-300892": {
+    "url": "/satellite-maps/ISS065-E-300892-60d8e357638f6059.json",
+    "sha256": "60d8e357638f60591bab71c39f6a5480ed9a509644e0d273369ec784750db16b",
+    "input_asset_id": "f9c5bd4caade989c5ac2701ab0be496709501df3d3ba046420dda48eeb68e4b5",
+    "source_sha256": "fb51f9413bb8829a2e4759ec54f07c7636cb35c640b9caed9278265a71b5e351",
+    "subset_sha256": "53388280da6af497a166be8cdc11aaddc7dd2d1f3b8e03880b2f959d96a93c13"
+  },
+  "ISS065-E-300928": {
+    "url": "/satellite-maps/ISS065-E-300928-646d4ca5c7c44ea3.json",
+    "sha256": "646d4ca5c7c44ea3bb8a5049b4d982d353f9e19b6d36feb30937bedbbb568c49",
+    "input_asset_id": "cab6fa1009e6314bd4506abdb8b8c65129725bc7e4f72f7c4a3fb0f5de82d3f3",
+    "source_sha256": "3146e91f1c0d2787f4619817ba4c42821f6c8a82916e5a941d0b27d7801e626d",
+    "subset_sha256": "e34d81d4178e2292a9052d3e3d6163c19ff3cdeff0494ddab6b5adac9488a777"
+  },
+  "ISS065-E-300965": {
+    "url": "/satellite-maps/ISS065-E-300965-5745b6d41f678df0.json",
+    "sha256": "5745b6d41f678df00f343dc3a6830710109ad31b547d3c71adb8eab3947d13e0",
+    "input_asset_id": "076968b7f1e4db7fec6d40c4a587e4c7464fd0479b5fcb8b9553cf5b729f502e",
+    "source_sha256": "a7ec714f69763dfb5f3b198a3774885a7e016c7bfd4452669c638a6c20c524c9",
+    "subset_sha256": "078f105d32344a8dfdd46b899f3a3bef70e0e3e80f038a9ece6b49ac0c5ab18d"
+  },
+  "ISS065-E-300975": {
+    "url": "/satellite-maps/ISS065-E-300975-76b77f253456c419.json",
+    "sha256": "76b77f253456c419da766f633fb0b12fec56dd1ec17d7905b415619825839d84",
+    "input_asset_id": "c073c69942a624c46dc1b1228262af0a1efbb49a703f99faa296b73620680dd0",
+    "source_sha256": "7b80ac49711fffbacda57f742fe491e268d0a9e60a5dc25a9ab55ee8e0998aac",
+    "subset_sha256": "188453e1b922d06a776314670e6dca1008439905d68284af821c0e815dd16353"
+  },
+  "ISS065-E-300988": {
+    "url": "/satellite-maps/ISS065-E-300988-c947fdad5fa98fdf.json",
+    "sha256": "c947fdad5fa98fdf04dcfc384bfad01132e8549664ac4de37c8d11e1fa8863f7",
+    "input_asset_id": "89d54188fbc561448b0898bbb652c9508bfada80d38da33baea006e05be249a2",
+    "source_sha256": "6c15e5ef4c82b484a6a557c2f7f5dece11f810642312d7d55bc477a11f73d4fb",
+    "subset_sha256": "35915ff5e6a302f39c42741ae05a45c67e1fed3f62a1eca2d8a6da0e284fe8f2"
+  },
+  "ISS065-E-301030": {
+    "url": "/satellite-maps/ISS065-E-301030-c35fe6516fc08fa8.json",
+    "sha256": "c35fe6516fc08fa8028abb42bc00f5a238b34bbfa828fc96f88cf9e5814db23f",
+    "input_asset_id": "ef3b316fb769b2fa35fe66871f8639fca81dd7c330975806d322e180b9e4b385",
+    "source_sha256": "e4e1ead2f4cf641cf5cb1448f737f60884fc448397d3bd326adcd102c2f88df0",
+    "subset_sha256": "a9452040398c48fdfb3c1991db3d21c834786667a74ac7bfc18d406f17737759"
+  },
+  "ISS065-E-301077": {
+    "url": "/satellite-maps/ISS065-E-301077-6a491a64b862dae9.json",
+    "sha256": "6a491a64b862dae949a227044322ed797a4dda4675228140388dc1e6a4ab3808",
+    "input_asset_id": "fb54fdad10d4d7ff3d1dda4aaa6131cf55cda9027e2ab342de0cb27d040104e6",
+    "source_sha256": "e86adfc55935c918237073144b96cae75d51537f9a82db777f010a40a02b1ff0",
+    "subset_sha256": "c8c02caddbebab9903b3e11ad8854b1ad43b324353ca071a857b0a112cbe7805"
+  },
+  "ISS067-E-127694": {
+    "url": "/satellite-maps/ISS067-E-127694-0a6e14d60c4f5874.json",
+    "sha256": "0a6e14d60c4f5874e74c55403601470788f862b217fc76d6b60df84869579db4",
+    "input_asset_id": "8f49182ef90ec588fe8c6ee9880ce12adc220aace679f041827772bd6502266d",
+    "source_sha256": "e885bb635e3aaf7691c3af91440631c68c0de4cb1874cc9d1a37f555d2ca93ad",
+    "subset_sha256": "d6c42f214aeee9c9f32345b916e4408e323541083fa94fd06bdcb0ed45be3324"
+  },
+  "ISS067-E-127702": {
+    "url": "/satellite-maps/ISS067-E-127702-8e74eac58e78097f.json",
+    "sha256": "8e74eac58e78097fba8f08c4a71bce22f63e774943816317c6dd886c35fbfe5c",
+    "input_asset_id": "83676cd78f4b2845a84476171729c72977b230809697b2e792e3586bff7428a2",
+    "source_sha256": "0a1583839986d6591c022b03aac4947b0231b92d594ff0e7958a2e14cfa4978c",
+    "subset_sha256": "89d0f7f6b066a556825cc904a308571df4cca1467bfdf2ea623ba928f5d8cc13"
+  },
+  "ISS067-E-127704": {
+    "url": "/satellite-maps/ISS067-E-127704-edb5ac1d4d390941.json",
+    "sha256": "edb5ac1d4d390941456a822769cf027df2497b97b04f800b3332d29c9a8f4323",
+    "input_asset_id": "55951adeb8ac4791eb793982eb5b40df8bdd9397a837e2777b0dd83156553c70",
+    "source_sha256": "18d86d387195df865db11d84187218286edb3f8293f63932824b9caa2e32d220",
+    "subset_sha256": "f7769eb32146bb60503fe366b4b4c56cb7001057fada179f81b3b9c15cf7558c"
+  },
+  "ISS067-E-127911": {
+    "url": "/satellite-maps/ISS067-E-127911-51b09ed739378c65.json",
+    "sha256": "51b09ed739378c658873f0a741cf58f26c086ec6a04ab020b9864a50fcd07efa",
+    "input_asset_id": "a81fc31a87d373ed1b63833b4206992aeab6a4aaf5d90bb7efde721271d210fb",
+    "source_sha256": "f59fe33ee84b7b588cbd40b5d78cdcaf766a71cec947496ae583fb16435454b0",
+    "subset_sha256": "30b411a890b771fde1f63eb1b20fbd4cdc0de18273ba558ac143a177b16f020c"
+  },
+  "ISS067-E-127990": {
+    "url": "/satellite-maps/ISS067-E-127990-ccd4df3d68b605a2.json",
+    "sha256": "ccd4df3d68b605a2b3d5790f180cecfca63885b31362c35e3f05894369cf2b28",
+    "input_asset_id": "b72c621421c7682844b963fd72a026d0b9a3b2ae0d23035a2fc495cfdc9368b5",
+    "source_sha256": "6fcef4fd27c02b02b372ece89b9f2dae3dc795383ba4fdfa7c9c2a88162cd62a",
+    "subset_sha256": "d57f53f3dd3d418cb752a9c45b30398703782fba8df18c78eed387f197c91cab"
+  },
+  "ISS067-E-128020": {
+    "url": "/satellite-maps/ISS067-E-128020-0b0bac89b28d6fcc.json",
+    "sha256": "0b0bac89b28d6fcc0527cbf6a97185e0b17dc5c2a0c643af040fbae6bf22fde1",
+    "input_asset_id": "8aa32108338243659e7eff21480226e06f621f1488904ac5de67ccdee2be2702",
+    "source_sha256": "cf7f5b3826452d24a5d6083cbcd34522597d514fbbee7451bc485b2e6c8ba94c",
+    "subset_sha256": "e5df7f8eec7e1eb998a91937da5bcd2b5acea86899b2de4d168b9efb4bbe778a"
+  },
+  "ISS067-E-128039": {
+    "url": "/satellite-maps/ISS067-E-128039-890f53431dc2761c.json",
+    "sha256": "890f53431dc2761c35390efe180f209a3a39cddc4edc763ff2846ea535c830fb",
+    "input_asset_id": "76932d3497a9a297a90db777b3dabb961c79f50476fb9d313c5547574d4cf4aa",
+    "source_sha256": "80238bfa04effe74ae7e5444c399ca6758fe8bb80e8c61fd0c04270897f81275",
+    "subset_sha256": "78ab9232e847e55da937148c2cdf5269b9d9383b43b62c8b6ef8dfcac94ef14b"
+  },
+  "ISS067-E-79768": {
+    "url": "/satellite-maps/ISS067-E-79768-6770f377b62b2ab0.json",
+    "sha256": "6770f377b62b2ab018aa499a0a158a851830f09dea7816f4e354545ac674855b",
+    "input_asset_id": "254aea6da0235aa46f6603811776b372e1f77db6c7ba57a912006f82245f9321",
+    "source_sha256": "fd536610e4fe768d07aa4d823ec838dad1f525fc44ad2cc89d39b131078bcc70",
+    "subset_sha256": "a6726e3d3183452bf05b7b1ebc925c6c091d83199328b33ee4b3d67e7f57fc1b"
+  },
+  "ISS067-E-79784": {
+    "url": "/satellite-maps/ISS067-E-79784-a87dc26ef572b0cf.json",
+    "sha256": "a87dc26ef572b0cf4803562b53346064cda847d5a807809d44dc48686c32ed91",
+    "input_asset_id": "be79fdd7feab48d655c939f79192a9ebe809685568e08171d327cd5eb89186bc",
+    "source_sha256": "6b7ed12f6d5629d11faa934ed7df75d5342d131858fd3582e67292bff3f73ef5",
+    "subset_sha256": "68fe4f9975989d7b416b18b81466b4c83c07c0ca17cfc78204c7fdacc01cfaf0"
+  },
+  "ISS069-E-48239": {
+    "url": "/satellite-maps/ISS069-E-48239-b7932d5f63a372de.json",
+    "sha256": "b7932d5f63a372de82029ad59a29cb6fb55000b94399ce13972c2262ed3e2dbd",
+    "input_asset_id": "7e96e75ec5ca376c61aabc1a998c9417c5426f860f4282c0cc0cdcfb185aff80",
+    "source_sha256": "a4823d68d050206b48cd7e68e1dcd3851ec4566bd468da756906761ebcdca8f4",
+    "subset_sha256": "b21e31f9daaea30c6fbeb6db348d6b2191b9875233a7ee5470bc0c1939fa43c7"
+  },
+  "ISS069-E-48310": {
+    "url": "/satellite-maps/ISS069-E-48310-2b2dd87fac8e0e7b.json",
+    "sha256": "2b2dd87fac8e0e7b73aa3d1e48a3dd2981db84e5b9281b9d1110ce9049dbc3d4",
+    "input_asset_id": "a6236fbf97cdccdbb731c4227abebad76925fd023a72ed015938497394ff166d",
+    "source_sha256": "4cad2c6f9663adfb9b224cb8fe2357b58360aa2cdd1cdb2823bc715ec9cd597b",
+    "subset_sha256": "3f1ee131f28eeba770df71107f471727f75d7243dd5fc0a853975812d41769ed"
+  },
+  "ISS069-E-48315": {
+    "url": "/satellite-maps/ISS069-E-48315-6b7ad49d74f53112.json",
+    "sha256": "6b7ad49d74f53112da7d365795ddc8db9a354491eceb25d80d062f80d6a298a2",
+    "input_asset_id": "7f573c65d52a7884ea059c7b8d32d58c200a8fffa7e7aa7c501235494d5746a6",
+    "source_sha256": "347d46fdea3b1349508bd81db78cb4ff89aebfe915ad21524272b560d8b1e515",
+    "subset_sha256": "2bbf57ec233ff493797053da7999cbcaad1d64d3dade4991ab67fde81b372cdb"
+  },
+  "ISS073-E-471068": {
+    "url": "/satellite-maps/ISS073-E-471068-a897ca122e7f23c1.json",
+    "sha256": "a897ca122e7f23c1247dc1bdcd063cfa15efe03f74e2baee7868e621d2901f87",
+    "input_asset_id": "838e456281eda10ce7d760b3ae9e2bfcf5de852ea14d2121a374144c086891d0",
+    "source_sha256": "3e0b2dda19e8adb2b9c24e7e459adce099f0c6386a4a7982720040b6103cb4bb",
+    "subset_sha256": "31999314283e4d0c89bff3d8e326fc374ab265ae5829f49b79631c5940507e7a"
+  },
+  "ISS074-E-615258": {
+    "url": "/satellite-maps/ISS074-E-615258-fdb46be8691831c0.json",
+    "sha256": "fdb46be8691831c00a5eec970ec52234c805dde94ebdfea69fff36a937a88ebb",
+    "input_asset_id": "34f1fe0a9acb959118b67929aa0ad44629b42782a1edf97ef9cad7b5fbbb3fed",
+    "source_sha256": "c08f99b0c757baa87c4d60f391ee68736cef443e73fd692d8da004bd296611d4",
+    "subset_sha256": "0b1dc7632b1b1699d6c695dc9a5fcc402dc83fa90e4b39b5cc448f13b484761a"
+  },
+  "ISS074-E-615284": {
+    "url": "/satellite-maps/ISS074-E-615284-c80b23e26e0babe6.json",
+    "sha256": "c80b23e26e0babe66825ebb29d86f6b71a4e152f2a8441215cb0c446c68307d0",
+    "input_asset_id": "faef0930878657dbe580946b2cd280c6d658b96e0914cc681ae18b0b128e6460",
+    "source_sha256": "15d36622db5393fbc77b78830079e77358e298d7974a19b3ee0f2b806d60782a",
+    "subset_sha256": "19915123ef8b6fba8dbb759b5c6c64a22dd55301ae038337d119b2745d59bc45"
+  },
+  "ISS074-E-615373": {
+    "url": "/satellite-maps/ISS074-E-615373-90deee124cfbd5da.json",
+    "sha256": "90deee124cfbd5da5de3be5fcc95425e388f19b95fe11481e3e0d6a02350ec2c",
+    "input_asset_id": "5286a246534067588918c9b23b34859280ad4e618e7bfc20881be18786da083c",
+    "source_sha256": "447ef643b6826ed447a38c895c948274f4348a184687cc41f4dc71019606554e",
+    "subset_sha256": "1750df46cb0e31d83cd1a523c6ad518c32536e1dce5cece68f8e5a0ecd5b4428"
+  },
+  "ISS072-E-768322": {
+    "url": "/satellite-maps/ISS072-E-768322-b7324aa8dc9e609e.json",
+    "sha256": "b7324aa8dc9e609ed5b6b7e1f63dffdd10bfd9c67834ab1b7375e83e5f108a2d",
+    "photo_url": "/native-maps/ISS072-E-768322_photo-a32c58513b7cda24.jpg",
+    "source_sha256": "a32c58513b7cda245c8b0b6fb4019773fe276934ba174a7e367a9a6c7ec88cc1"
+  },
+  "ISS071-E-683490": {
+    "url": "/satellite-maps/ISS071-E-683490-b669055f3a166122.json",
+    "sha256": "b669055f3a166122d7f283b95bfc95e3f9645a2cc763b74e8bb5d1de62f4c045",
+    "photo_url": "/native-maps/ISS071-E-683490_photo-2fc038639f5175a5.jpg",
+    "source_sha256": "2fc038639f5175a5d115a39f3027def60202caa20557ebddc5c11f14714a3a11"
+  },
+  "ISS042-E-316876": {
+    "url": "/satellite-maps/ISS042-E-316876-b7aecc86c08206a4.json",
+    "sha256": "b7aecc86c08206a4bce09f90a98f1d5f5661649f6ec8e0553e4f9f654ef87f7b",
+    "photo_url": "/native-maps/ISS042-E-316876_photo-710188653ad70e3c.jpg",
+    "source_sha256": "710188653ad70e3c270008cc36f0d60a30b0d4c3100a3a8e81f69a1eb2a7c5d5"
+  },
+  "ISS042-E-99971": {
+    "url": "/satellite-maps/ISS042-E-99971-06aef8c007d27631.json",
+    "sha256": "06aef8c007d27631d121782ab6f9d577329f90a798b4fe74772a3f28ab10ada4",
+    "photo_url": "/native-maps/ISS042-E-99971_photo-2c973a26df272014.jpg",
+    "source_sha256": "2c973a26df272014ae57f5d83e1eb6f222190d238b6b408da33bb5a3a826c204"
+  },
+  "ISS028-E-46109": {
+    "url": "/satellite-maps/ISS028-E-46109-5cc39df7f9fc8a7a.json",
+    "sha256": "5cc39df7f9fc8a7a96269967b1d3072ab768941f00d9051707703e5b12cab5a8",
+    "photo_url": "/native-maps/ISS028-E-46109_photo-abe1223908d34ca2.jpg",
+    "source_sha256": "abe1223908d34ca2e6ffb266c112f73d9ba3bdfb6e4e28f6d98be5312d79f904"
+  },
+  "ISS030-E-30413": {
+    "url": "/satellite-maps/ISS030-E-30413-c02a43725de9011a.json",
+    "sha256": "c02a43725de9011ae4d35461607c30397721571b7bbe90cf7960ce058ffb56fd",
+    "photo_url": "/native-maps/ISS030-E-30413_photo-7379fc48e58930de.jpg",
+    "source_sha256": "7379fc48e58930de77402befafefc5b4044306e540460f7c935ae0545fd4daa0"
+  }
+}

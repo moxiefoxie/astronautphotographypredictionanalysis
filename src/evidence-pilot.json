@@ -1,0 +1,332 @@
+{
+  "ISS031-E-50002": {
+    "url": "/evidence-pilot/ISS031-E-50002-4f0053b529986d06.json",
+    "asset_id": "02ee1b2ab5900438ea41cc24b4941e069477f4a2dcab300ad1fe972206ab9602",
+    "source_sha256": "2064d2c4622eaff85625cd8f953d81b23c52d39212d822278b7d0b8fe534beb4",
+    "model_ids": {
+      "kd_490": "med-cal-kd_490-df8f6efe640e26162aba00ab",
+      "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50"
+    },
+    "variants": [
+      {
+        "url": "/evidence-pilot/ISS031-E-50002-e5ca1d6adcc27f86.json",
+        "asset_id": "02ee1b2ab5900438ea41cc24b4941e069477f4a2dcab300ad1fe972206ab9602",
+        "source_sha256": "2064d2c4622eaff85625cd8f953d81b23c52d39212d822278b7d0b8fe534beb4",
+        "model_ids": {
+          "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50",
+          "kd_490": "med-kd_490-b9a68a0f82eaf0945a4f1d0f"
+        }
+      }
+    ]
+  },
+  "ISS067-E-79768": {
+    "url": "/evidence-pilot/ISS067-E-79768-0df37250dea2909d.json",
+    "asset_id": "254aea6da0235aa46f6603811776b372e1f77db6c7ba57a912006f82245f9321",
+    "source_sha256": "fd536610e4fe768d07aa4d823ec838dad1f525fc44ad2cc89d39b131078bcc70",
+    "model_ids": {
+      "kd_490": "med-cal-kd_490-df8f6efe640e26162aba00ab",
+      "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50"
+    },
+    "variants": [
+      {
+        "url": "/evidence-pilot/ISS067-E-79768-49cb46fbad4e2af8.json",
+        "asset_id": "254aea6da0235aa46f6603811776b372e1f77db6c7ba57a912006f82245f9321",
+        "source_sha256": "fd536610e4fe768d07aa4d823ec838dad1f525fc44ad2cc89d39b131078bcc70",
+        "model_ids": {
+          "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50",
+          "kd_490": "med-kd_490-b9a68a0f82eaf0945a4f1d0f"
+        }
+      }
+    ]
+  },
+  "ISS043-E-130790": {
+    "url": "/evidence-pilot/ISS043-E-130790-24f36d77eac3358f.json",
+    "asset_id": "4ab88e7b942cd2814b661ea47a936545dbb49fccd097ecae090188fcc43f0672",
+    "source_sha256": "743c22ce9a6277857f93223874f7f56eecca03e98c574d372c397f11e162310e",
+    "model_ids": {
+      "kd_490": "med-cal-kd_490-df8f6efe640e26162aba00ab",
+      "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50"
+    },
+    "variants": [
+      {
+        "url": "/evidence-pilot/ISS043-E-130790-1ac53bdc85ebc0e5.json",
+        "asset_id": "4ab88e7b942cd2814b661ea47a936545dbb49fccd097ecae090188fcc43f0672",
+        "source_sha256": "743c22ce9a6277857f93223874f7f56eecca03e98c574d372c397f11e162310e",
+        "model_ids": {
+          "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50",
+          "kd_490": "med-kd_490-b9a68a0f82eaf0945a4f1d0f"
+        }
+      }
+    ]
+  },
+  "ISS067-E-127704": {
+    "url": "/evidence-pilot/ISS067-E-127704-fd39f0e7b0726026.json",
+    "asset_id": "55951adeb8ac4791eb793982eb5b40df8bdd9397a837e2777b0dd83156553c70",
+    "source_sha256": "18d86d387195df865db11d84187218286edb3f8293f63932824b9caa2e32d220",
+    "model_ids": {
+      "kd_490": "med-cal-kd_490-df8f6efe640e26162aba00ab",
+      "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50"
+    },
+    "variants": [
+      {
+        "url": "/evidence-pilot/ISS067-E-127704-80ed9df1ada10e89.json",
+        "asset_id": "55951adeb8ac4791eb793982eb5b40df8bdd9397a837e2777b0dd83156553c70",
+        "source_sha256": "18d86d387195df865db11d84187218286edb3f8293f63932824b9caa2e32d220",
+        "model_ids": {
+          "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50",
+          "kd_490": "med-kd_490-b9a68a0f82eaf0945a4f1d0f"
+        }
+      }
+    ]
+  },
+  "ISS065-E-300749": {
+    "url": "/evidence-pilot/ISS065-E-300749-38fbf8600c789fff.json",
+    "asset_id": "789fdbcf35eb34e15c6bed66d918590062627ddbe87cb3ebb45bff4a6a0d2b3c",
+    "source_sha256": "3177a424016a4910e652879e8d0caaabe9fb30271f2b474184a47ee082d62a02",
+    "model_ids": {
+      "kd_490": "med-cal-kd_490-df8f6efe640e26162aba00ab",
+      "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50"
+    },
+    "variants": [
+      {
+        "url": "/evidence-pilot/ISS065-E-300749-d370be84eb7eadb6.json",
+        "asset_id": "789fdbcf35eb34e15c6bed66d918590062627ddbe87cb3ebb45bff4a6a0d2b3c",
+        "source_sha256": "3177a424016a4910e652879e8d0caaabe9fb30271f2b474184a47ee082d62a02",
+        "model_ids": {
+          "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50",
+          "kd_490": "med-kd_490-b9a68a0f82eaf0945a4f1d0f"
+        }
+      }
+    ]
+  },
+  "ISS067-E-127702": {
+    "url": "/evidence-pilot/ISS067-E-127702-20d72d5242d5f117.json",
+    "asset_id": "83676cd78f4b2845a84476171729c72977b230809697b2e792e3586bff7428a2",
+    "source_sha256": "0a1583839986d6591c022b03aac4947b0231b92d594ff0e7958a2e14cfa4978c",
+    "model_ids": {
+      "kd_490": "med-cal-kd_490-df8f6efe640e26162aba00ab",
+      "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50"
+    },
+    "variants": [
+      {
+        "url": "/evidence-pilot/ISS067-E-127702-952ee0064f660d52.json",
+        "asset_id": "83676cd78f4b2845a84476171729c72977b230809697b2e792e3586bff7428a2",
+        "source_sha256": "0a1583839986d6591c022b03aac4947b0231b92d594ff0e7958a2e14cfa4978c",
+        "model_ids": {
+          "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50",
+          "kd_490": "med-kd_490-b9a68a0f82eaf0945a4f1d0f"
+        }
+      }
+    ]
+  },
+  "ISS073-E-471068": {
+    "url": "/evidence-pilot/ISS073-E-471068-b71af57fac2a22ac.json",
+    "asset_id": "838e456281eda10ce7d760b3ae9e2bfcf5de852ea14d2121a374144c086891d0",
+    "source_sha256": "3e0b2dda19e8adb2b9c24e7e459adce099f0c6386a4a7982720040b6103cb4bb",
+    "model_ids": {
+      "kd_490": "med-cal-kd_490-df8f6efe640e26162aba00ab",
+      "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50"
+    },
+    "variants": [
+      {
+        "url": "/evidence-pilot/ISS073-E-471068-036269034591ef2e.json",
+        "asset_id": "838e456281eda10ce7d760b3ae9e2bfcf5de852ea14d2121a374144c086891d0",
+        "source_sha256": "3e0b2dda19e8adb2b9c24e7e459adce099f0c6386a4a7982720040b6103cb4bb",
+        "model_ids": {
+          "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50",
+          "kd_490": "med-kd_490-b9a68a0f82eaf0945a4f1d0f"
+        }
+      }
+    ]
+  },
+  "ISS067-E-127694": {
+    "url": "/evidence-pilot/ISS067-E-127694-7657719d2fda81a2.json",
+    "asset_id": "8f49182ef90ec588fe8c6ee9880ce12adc220aace679f041827772bd6502266d",
+    "source_sha256": "e885bb635e3aaf7691c3af91440631c68c0de4cb1874cc9d1a37f555d2ca93ad",
+    "model_ids": {
+      "kd_490": "med-cal-kd_490-df8f6efe640e26162aba00ab",
+      "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50"
+    },
+    "variants": [
+      {
+        "url": "/evidence-pilot/ISS067-E-127694-dc5f2ee0b1caae68.json",
+        "asset_id": "8f49182ef90ec588fe8c6ee9880ce12adc220aace679f041827772bd6502266d",
+        "source_sha256": "e885bb635e3aaf7691c3af91440631c68c0de4cb1874cc9d1a37f555d2ca93ad",
+        "model_ids": {
+          "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50",
+          "kd_490": "med-kd_490-b9a68a0f82eaf0945a4f1d0f"
+        }
+      }
+    ]
+  },
+  "ISS051-E-33260": {
+    "url": "/evidence-pilot/ISS051-E-33260-adec75ac13cbc4b9.json",
+    "asset_id": "8fee595f1a74d39446dad3145658d16cdad89566e2ff04543fb50288c8a04693",
+    "source_sha256": "442ad53f8a5f085227f85a2952845ba7bd11e8914eca5f06c953ccd3dc5c9a74",
+    "model_ids": {
+      "kd_490": "med-cal-kd_490-df8f6efe640e26162aba00ab",
+      "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50"
+    },
+    "variants": [
+      {
+        "url": "/evidence-pilot/ISS051-E-33260-f9dbe8d32d8796c2.json",
+        "asset_id": "8fee595f1a74d39446dad3145658d16cdad89566e2ff04543fb50288c8a04693",
+        "source_sha256": "442ad53f8a5f085227f85a2952845ba7bd11e8914eca5f06c953ccd3dc5c9a74",
+        "model_ids": {
+          "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50",
+          "kd_490": "med-kd_490-b9a68a0f82eaf0945a4f1d0f"
+        }
+      }
+    ]
+  },
+  "ISS053-E-398653": {
+    "url": "/evidence-pilot/ISS053-E-398653-40a5658cfd9194cf.json",
+    "asset_id": "93a19dadf50359858f2a53d1115e6d1477edf0cdde03e3d61ef5a2bd93f1501e",
+    "source_sha256": "3dc8a592d070e269316db9125c91261abdda92edb2800a8b9f70751484b838c8",
+    "model_ids": {
+      "kd_490": "med-cal-kd_490-df8f6efe640e26162aba00ab",
+      "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50"
+    },
+    "variants": [
+      {
+        "url": "/evidence-pilot/ISS053-E-398653-e747594592b88ae8.json",
+        "asset_id": "93a19dadf50359858f2a53d1115e6d1477edf0cdde03e3d61ef5a2bd93f1501e",
+        "source_sha256": "3dc8a592d070e269316db9125c91261abdda92edb2800a8b9f70751484b838c8",
+        "model_ids": {
+          "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50",
+          "kd_490": "med-kd_490-b9a68a0f82eaf0945a4f1d0f"
+        }
+      }
+    ]
+  },
+  "ISS031-E-50058": {
+    "url": "/evidence-pilot/ISS031-E-50058-2a157e461b08024b.json",
+    "asset_id": "9f27122bac95b0ae2a895080f8b76dfcf01742a8be9f590efaa3b2a02249a32a",
+    "source_sha256": "884bdb6fdf1606c81a2d43f5720d9f96e9cf713d9676d618ebdf83628fd50cf2",
+    "model_ids": {
+      "kd_490": "med-cal-kd_490-df8f6efe640e26162aba00ab",
+      "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50"
+    },
+    "variants": [
+      {
+        "url": "/evidence-pilot/ISS031-E-50058-05b2bc6de81ec183.json",
+        "asset_id": "9f27122bac95b0ae2a895080f8b76dfcf01742a8be9f590efaa3b2a02249a32a",
+        "source_sha256": "884bdb6fdf1606c81a2d43f5720d9f96e9cf713d9676d618ebdf83628fd50cf2",
+        "model_ids": {
+          "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50",
+          "kd_490": "med-kd_490-b9a68a0f82eaf0945a4f1d0f"
+        }
+      }
+    ]
+  },
+  "ISS055-E-13186": {
+    "url": "/evidence-pilot/ISS055-E-13186-86b49c8b6f82e257.json",
+    "asset_id": "ab3be59e39fdc5c8353da12ade601c79584688617c401eff6eae40d7a2f78ae3",
+    "source_sha256": "2f7c50d75155ac26f2418d13ca8903f0ee5af8d45d5d7d0b43c277e21582c266",
+    "model_ids": {
+      "kd_490": "med-cal-kd_490-df8f6efe640e26162aba00ab",
+      "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50"
+    },
+    "variants": [
+      {
+        "url": "/evidence-pilot/ISS055-E-13186-feb8e539d4b1aa81.json",
+        "asset_id": "ab3be59e39fdc5c8353da12ade601c79584688617c401eff6eae40d7a2f78ae3",
+        "source_sha256": "2f7c50d75155ac26f2418d13ca8903f0ee5af8d45d5d7d0b43c277e21582c266",
+        "model_ids": {
+          "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50",
+          "kd_490": "med-kd_490-b9a68a0f82eaf0945a4f1d0f"
+        }
+      }
+    ]
+  },
+  "ISS051-E-33415": {
+    "url": "/evidence-pilot/ISS051-E-33415-248a5078889919e3.json",
+    "asset_id": "c9e559294c2434e9c7ce3f662ea69f4daa097d6525920e53169fb8ba2274bf47",
+    "source_sha256": "198f99468037287b4a628497f0a320034370e67c819979fc7ab73b1825251996",
+    "model_ids": {
+      "kd_490": "med-cal-kd_490-df8f6efe640e26162aba00ab",
+      "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50"
+    },
+    "variants": [
+      {
+        "url": "/evidence-pilot/ISS051-E-33415-e190c1d73fd916a4.json",
+        "asset_id": "c9e559294c2434e9c7ce3f662ea69f4daa097d6525920e53169fb8ba2274bf47",
+        "source_sha256": "198f99468037287b4a628497f0a320034370e67c819979fc7ab73b1825251996",
+        "model_ids": {
+          "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50",
+          "kd_490": "med-kd_490-b9a68a0f82eaf0945a4f1d0f"
+        }
+      }
+    ]
+  },
+  "ISS065-E-300928": {
+    "url": "/evidence-pilot/ISS065-E-300928-b42ed34ea5903dd1.json",
+    "asset_id": "cab6fa1009e6314bd4506abdb8b8c65129725bc7e4f72f7c4a3fb0f5de82d3f3",
+    "source_sha256": "3146e91f1c0d2787f4619817ba4c42821f6c8a82916e5a941d0b27d7801e626d",
+    "model_ids": {
+      "kd_490": "med-cal-kd_490-df8f6efe640e26162aba00ab",
+      "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50"
+    },
+    "variants": [
+      {
+        "url": "/evidence-pilot/ISS065-E-300928-5046f86786dbaba8.json",
+        "asset_id": "cab6fa1009e6314bd4506abdb8b8c65129725bc7e4f72f7c4a3fb0f5de82d3f3",
+        "source_sha256": "3146e91f1c0d2787f4619817ba4c42821f6c8a82916e5a941d0b27d7801e626d",
+        "model_ids": {
+          "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50",
+          "kd_490": "med-kd_490-b9a68a0f82eaf0945a4f1d0f"
+        }
+      }
+    ]
+  },
+  "ISS042-E-104496": {
+    "url": "/evidence-pilot/ISS042-E-104496-c27aae44fdabdf35.json",
+    "asset_id": "e1e8b793e8f20f5ca3f7f4899fd61ba73c2858393feb9b0becac890060511c4c",
+    "source_sha256": "268795f10d84f9da8b6fdb0a9132e15b0936d5dc251e8577e6d300298ed81a5d",
+    "model_ids": {
+      "kd_490": "med-cal-kd_490-df8f6efe640e26162aba00ab",
+      "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50"
+    },
+    "variants": [
+      {
+        "url": "/evidence-pilot/ISS042-E-104496-e55404edb1313f64.json",
+        "asset_id": "e1e8b793e8f20f5ca3f7f4899fd61ba73c2858393feb9b0becac890060511c4c",
+        "source_sha256": "268795f10d84f9da8b6fdb0a9132e15b0936d5dc251e8577e6d300298ed81a5d",
+        "model_ids": {
+          "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50",
+          "kd_490": "med-kd_490-b9a68a0f82eaf0945a4f1d0f"
+        }
+      }
+    ]
+  },
+  "ISS042-E-104322": {
+    "url": "/evidence-pilot/ISS042-E-104322-92b4a075ed282a25.json",
+    "asset_id": "d672261f10f56cad9dca222823b4c90d8b4a3a63c0922add15dc8d5dd42771b8",
+    "source_sha256": "4643239d8a2bd57fd3cf30b5341db592b0209d98dabe7303abb73cb8bf6cffb5",
+    "has_reference": false,
+    "model_ids": {
+      "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50",
+      "kd_490": "med-cal-kd_490-df8f6efe640e26162aba00ab"
+    }
+  },
+  "ISS051-E-22628": {
+    "url": "/evidence-pilot/ISS051-E-22628-1e2bcfa3e616161a.json",
+    "asset_id": "599273f0c026a5212c66749e81e3222af56faead48e8750cbf089e71b557f361",
+    "source_sha256": "95e0a133c0c79b41d76d962b7f39cc6aef1a8ad801873be660787945ed04fe3b",
+    "has_reference": false,
+    "model_ids": {
+      "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50",
+      "kd_490": "med-cal-kd_490-df8f6efe640e26162aba00ab"
+    }
+  },
+  "ISS051-E-33543": {
+    "url": "/evidence-pilot/ISS051-E-33543-f38b2c9d9a394f92.json",
+    "asset_id": "15a4c5bcafdc928411cce19fc0c9015420b0c8334989ced16b49f06142a2e0c1",
+    "source_sha256": "a5b14470a43f6c816007671b417fe458cfc91dfe730a503fc4e390423ab15cfd",
+    "has_reference": false,
+    "model_ids": {
+      "chlor_a": "med-chlor_a-96c1f665d26aaa47dfc0ee50",
+      "kd_490": "med-cal-kd_490-df8f6efe640e26162aba00ab"
+    }
+  }
+}

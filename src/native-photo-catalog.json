@@ -1,0 +1,876 @@
+{
+  "ISS072-E-768322": {
+    "id": "ISS072-E-768322",
+    "captured_at": "2025-03-10T06:28:32+00:00",
+    "latitude": -34.5442403409844,
+    "longitude": 135.165861462264,
+    "mission": "ISS072",
+    "original_url": "https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS072&roll=E&frame=768322",
+    "metadata": {
+      "sun_elevation": 35.2589950676834,
+      "sun_azimuth": null,
+      "focal_length": null,
+      "water_fraction": 0.760396,
+      "earthmatch_inlier_count": 615.0,
+      "cloud_percent": 0.0,
+      "location_source": "earthmatch_verified",
+      "named_water_features": [
+        {
+          "name": "Great Australian Bight",
+          "type": "gulf"
+        }
+      ],
+      "catalog_source": "saved high-density catalog",
+      "input_contract": "high-density-20261109",
+      "reference_status": "quality_masked_reference_available"
+    },
+    "predictions": {
+      "chlor_a": {
+        "value": 0.2000826200172501,
+        "units": "mg/m\u00b3",
+        "model": {
+          "id": "high-density-chlor_a-hist_gradient_boosting_depth_4",
+          "name": "hist_gradient_boosting_depth_4",
+          "serving_enabled": false,
+          "test_metrics": {
+            "median_error_factor": 1.5243147941332658
+          },
+          "limitations": "Scalar photo-level evaluation; not pixel accuracy"
+        },
+        "run_id": "high-density-models-20261109",
+        "role": "held_out_test",
+        "split": "test",
+        "scene_group": "hd_3bca38dd2e67d065",
+        "evidence": {
+          "source": "frozen_high_density_export",
+          "image_sha256": "33fa30924082167059889a90afb6684c1938776123789f5fb090ee71d44027cf"
+        },
+        "confidence": {
+          "status": "unavailable"
+        },
+        "prediction_interval": {
+          "status": "unavailable"
+        },
+        "satellite": {
+          "id": "hd-reference-ISS072-E-768322",
+          "dataset_sha256": "b40c2eda4d7d2838fdbed8850d261825175ba2ada0680489b858a111a1c0c59b",
+          "product": "MODIS Aqua Level-2 ocean color",
+          "granule_id": "AQUA_MODIS.20250310T054001.L2.OC.nc",
+          "delta_minutes": 46.026975,
+          "overlap_fraction": 1.0000000000000002,
+          "aggregation": "Quality-masked footprint geometric mean",
+          "selection_rule": "Frozen high-density matched reference; provisional geometric alignment",
+          "mask_flags": [
+            "Frozen high-density joint MODIS quality mask"
+          ],
+          "targets": {
+            "chlor_a": {
+              "value": 0.3102833032608032,
+              "units": "mg/m\u00b3",
+              "valid_pixels": 1121,
+              "valid_fraction": 0.2435368238105583
+            },
+            "kd_490": {
+              "value": 0.0565203838050365,
+              "units": "m\u207b\u00b9",
+              "valid_pixels": 1121,
+              "valid_fraction": 0.2435368238105583
+            }
+          }
+        },
+        "difference": -0.11020068324355312
+      },
+      "kd_490": {
+        "value": 0.0481277064242166,
+        "units": "m\u207b\u00b9",
+        "model": {
+          "id": "high-density-kd_490-hist_gradient_boosting_depth_4",
+          "name": "hist_gradient_boosting_depth_4",
+          "serving_enabled": false,
+          "test_metrics": {
+            "median_error_factor": 1.2427009605233483
+          },
+          "limitations": "Scalar photo-level evaluation; not pixel accuracy"
+        },
+        "run_id": "high-density-models-20261109",
+        "role": "held_out_test",
+        "split": "test",
+        "scene_group": "hd_3bca38dd2e67d065",
+        "evidence": {
+          "source": "frozen_high_density_export",
+          "image_sha256": "33fa30924082167059889a90afb6684c1938776123789f5fb090ee71d44027cf"
+        },
+        "confidence": {
+          "status": "unavailable"
+        },
+        "prediction_interval": {
+          "status": "unavailable"
+        },
+        "satellite": {
+          "id": "hd-reference-ISS072-E-768322",
+          "dataset_sha256": "b40c2eda4d7d2838fdbed8850d261825175ba2ada0680489b858a111a1c0c59b",
+          "product": "MODIS Aqua Level-2 ocean color",
+          "granule_id": "AQUA_MODIS.20250310T054001.L2.OC.nc",
+          "delta_minutes": 46.026975,
+          "overlap_fraction": 1.0000000000000002,
+          "aggregation": "Quality-masked footprint geometric mean",
+          "selection_rule": "Frozen high-density matched reference; provisional geometric alignment",
+          "mask_flags": [
+            "Frozen high-density joint MODIS quality mask"
+          ],
+          "targets": {
+            "chlor_a": {
+              "value": 0.3102833032608032,
+              "units": "mg/m\u00b3",
+              "valid_pixels": 1121,
+              "valid_fraction": 0.2435368238105583
+            },
+            "kd_490": {
+              "value": 0.0565203838050365,
+              "units": "m\u207b\u00b9",
+              "valid_pixels": 1121,
+              "valid_fraction": 0.2435368238105583
+            }
+          }
+        },
+        "difference": -0.008392677380819905
+      }
+    },
+    "history_count": 2,
+    "preview": {
+      "available": true,
+      "kind": "native_registered_crop",
+      "caption": "Registered native photo; scalar results refer to the saved footprint crop"
+    },
+    "limitations": "Frozen high-density outputs. Native-pixel overlays have separate models and unvalidated fine-scale accuracy."
+  },
+  "ISS071-E-683490": {
+    "id": "ISS071-E-683490",
+    "captured_at": "2024-09-15T06:41:40+00:00",
+    "latitude": -25.8117690176109,
+    "longitude": 113.448417161199,
+    "mission": "ISS071",
+    "original_url": "https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS071&roll=E&frame=683490",
+    "metadata": {
+      "sun_elevation": 45.2929991282264,
+      "sun_azimuth": null,
+      "focal_length": null,
+      "water_fraction": 0.731428,
+      "earthmatch_inlier_count": 659.0,
+      "cloud_percent": 1.8158,
+      "location_source": "earthmatch_verified",
+      "named_water_features": [
+        {
+          "name": "Shark Bay",
+          "type": "bay"
+        },
+        {
+          "name": "Indian Ocean",
+          "type": "ocean"
+        }
+      ],
+      "catalog_source": "saved high-density catalog",
+      "input_contract": "high-density-20261109",
+      "reference_status": "quality_masked_reference_available"
+    },
+    "predictions": {
+      "chlor_a": {
+        "value": 0.2594938658777591,
+        "units": "mg/m\u00b3",
+        "model": {
+          "id": "high-density-chlor_a-hist_gradient_boosting_depth_4",
+          "name": "hist_gradient_boosting_depth_4",
+          "serving_enabled": false,
+          "test_metrics": {
+            "median_error_factor": 1.5243147941332658
+          },
+          "limitations": "Scalar photo-level evaluation; not pixel accuracy"
+        },
+        "run_id": "high-density-models-20261109",
+        "role": "held_out_test",
+        "split": "test",
+        "scene_group": "hd_8a18020e487753ce",
+        "evidence": {
+          "source": "frozen_high_density_export",
+          "image_sha256": "1227bf13f0e1ed553e8fea71b37c9c3dd28e387c96d672f7c3630f4db1011cfe"
+        },
+        "confidence": {
+          "status": "unavailable"
+        },
+        "prediction_interval": {
+          "status": "unavailable"
+        },
+        "satellite": {
+          "id": "hd-reference-ISS071-E-683490",
+          "dataset_sha256": "61eca2929a6c279fcab119962fb810432abf3f4942e34bea018b0cb4977b149e",
+          "product": "MODIS Aqua Level-2 ocean color",
+          "granule_id": "AQUA_MODIS.20240915T071001.L2.OC.nc",
+          "delta_minutes": 30.85185,
+          "overlap_fraction": 1.0000000000000004,
+          "aggregation": "Quality-masked footprint geometric mean",
+          "selection_rule": "Frozen high-density matched reference; provisional geometric alignment",
+          "mask_flags": [
+            "Frozen high-density joint MODIS quality mask"
+          ],
+          "targets": {
+            "chlor_a": {
+              "value": 1.4002448320388794,
+              "units": "mg/m\u00b3",
+              "valid_pixels": 1316,
+              "valid_fraction": 0.3232620977646769
+            },
+            "kd_490": {
+              "value": 0.1287018954753875,
+              "units": "m\u207b\u00b9",
+              "valid_pixels": 1316,
+              "valid_fraction": 0.3232620977646769
+            }
+          }
+        },
+        "difference": -1.1407509661611204
+      },
+      "kd_490": {
+        "value": 0.04154714439429054,
+        "units": "m\u207b\u00b9",
+        "model": {
+          "id": "high-density-kd_490-hist_gradient_boosting_depth_4",
+          "name": "hist_gradient_boosting_depth_4",
+          "serving_enabled": false,
+          "test_metrics": {
+            "median_error_factor": 1.2427009605233483
+          },
+          "limitations": "Scalar photo-level evaluation; not pixel accuracy"
+        },
+        "run_id": "high-density-models-20261109",
+        "role": "held_out_test",
+        "split": "test",
+        "scene_group": "hd_8a18020e487753ce",
+        "evidence": {
+          "source": "frozen_high_density_export",
+          "image_sha256": "1227bf13f0e1ed553e8fea71b37c9c3dd28e387c96d672f7c3630f4db1011cfe"
+        },
+        "confidence": {
+          "status": "unavailable"
+        },
+        "prediction_interval": {
+          "status": "unavailable"
+        },
+        "satellite": {
+          "id": "hd-reference-ISS071-E-683490",
+          "dataset_sha256": "61eca2929a6c279fcab119962fb810432abf3f4942e34bea018b0cb4977b149e",
+          "product": "MODIS Aqua Level-2 ocean color",
+          "granule_id": "AQUA_MODIS.20240915T071001.L2.OC.nc",
+          "delta_minutes": 30.85185,
+          "overlap_fraction": 1.0000000000000004,
+          "aggregation": "Quality-masked footprint geometric mean",
+          "selection_rule": "Frozen high-density matched reference; provisional geometric alignment",
+          "mask_flags": [
+            "Frozen high-density joint MODIS quality mask"
+          ],
+          "targets": {
+            "chlor_a": {
+              "value": 1.4002448320388794,
+              "units": "mg/m\u00b3",
+              "valid_pixels": 1316,
+              "valid_fraction": 0.3232620977646769
+            },
+            "kd_490": {
+              "value": 0.1287018954753875,
+              "units": "m\u207b\u00b9",
+              "valid_pixels": 1316,
+              "valid_fraction": 0.3232620977646769
+            }
+          }
+        },
+        "difference": -0.08715475108109695
+      }
+    },
+    "history_count": 2,
+    "preview": {
+      "available": true,
+      "kind": "native_registered_crop",
+      "caption": "Registered native photo; scalar results refer to the saved footprint crop"
+    },
+    "limitations": "Frozen high-density outputs. Native-pixel overlays have separate models and unvalidated fine-scale accuracy."
+  },
+  "ISS042-E-316876": {
+    "id": "ISS042-E-316876",
+    "captured_at": "2015-03-08T19:29:57+00:00",
+    "latitude": 28.9641472107445,
+    "longitude": -80.8658627463862,
+    "mission": "ISS042",
+    "original_url": "https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS042&roll=E&frame=316876",
+    "metadata": {
+      "sun_elevation": 46.1497229518184,
+      "sun_azimuth": null,
+      "focal_length": null,
+      "water_fraction": 0.49097,
+      "earthmatch_inlier_count": 759.0,
+      "cloud_percent": 0.0,
+      "location_source": "earthmatch_verified",
+      "named_water_features": [
+        {
+          "name": "Atlantic Ocean",
+          "type": "ocean"
+        }
+      ],
+      "catalog_source": "saved high-density catalog",
+      "input_contract": "high-density-20261109",
+      "reference_status": "quality_masked_reference_available"
+    },
+    "predictions": {
+      "chlor_a": {
+        "value": 0.42891711474634925,
+        "units": "mg/m\u00b3",
+        "model": {
+          "id": "high-density-chlor_a-hist_gradient_boosting_depth_4",
+          "name": "hist_gradient_boosting_depth_4",
+          "serving_enabled": false,
+          "test_metrics": {
+            "median_error_factor": 1.5243147941332658
+          },
+          "limitations": "Scalar photo-level evaluation; not pixel accuracy"
+        },
+        "run_id": "high-density-models-20261109",
+        "role": "held_out_test",
+        "split": "test",
+        "scene_group": "hd_edf130b50cbbb768",
+        "evidence": {
+          "source": "frozen_high_density_export",
+          "image_sha256": "349b76e22e1768a8b59108e7ec0540aa5f0aaaaca2d4e75e4c34c08f5b628078"
+        },
+        "confidence": {
+          "status": "unavailable"
+        },
+        "prediction_interval": {
+          "status": "unavailable"
+        },
+        "satellite": {
+          "id": "hd-reference-ISS042-E-316876",
+          "dataset_sha256": "a8c5c239380095d060264232a96505649ae33b48dbdce6722ffc36330a168dd8",
+          "product": "MODIS Aqua Level-2 ocean color",
+          "granule_id": "AQUA_MODIS.20150308T184001.L2.OC.nc",
+          "delta_minutes": 47.43640833333333,
+          "overlap_fraction": 1.0,
+          "aggregation": "Quality-masked footprint geometric mean",
+          "selection_rule": "Frozen high-density matched reference; provisional geometric alignment",
+          "mask_flags": [
+            "Frozen high-density joint MODIS quality mask"
+          ],
+          "targets": {
+            "chlor_a": {
+              "value": 4.290250778198242,
+              "units": "mg/m\u00b3",
+              "valid_pixels": 2480,
+              "valid_fraction": 0.3626791459491079
+            },
+            "kd_490": {
+              "value": 0.3015381991863251,
+              "units": "m\u207b\u00b9",
+              "valid_pixels": 2480,
+              "valid_fraction": 0.3626791459491079
+            }
+          }
+        },
+        "difference": -3.861333663451893
+      },
+      "kd_490": {
+        "value": 0.1123046762045071,
+        "units": "m\u207b\u00b9",
+        "model": {
+          "id": "high-density-kd_490-hist_gradient_boosting_depth_4",
+          "name": "hist_gradient_boosting_depth_4",
+          "serving_enabled": false,
+          "test_metrics": {
+            "median_error_factor": 1.2427009605233483
+          },
+          "limitations": "Scalar photo-level evaluation; not pixel accuracy"
+        },
+        "run_id": "high-density-models-20261109",
+        "role": "held_out_test",
+        "split": "test",
+        "scene_group": "hd_edf130b50cbbb768",
+        "evidence": {
+          "source": "frozen_high_density_export",
+          "image_sha256": "349b76e22e1768a8b59108e7ec0540aa5f0aaaaca2d4e75e4c34c08f5b628078"
+        },
+        "confidence": {
+          "status": "unavailable"
+        },
+        "prediction_interval": {
+          "status": "unavailable"
+        },
+        "satellite": {
+          "id": "hd-reference-ISS042-E-316876",
+          "dataset_sha256": "a8c5c239380095d060264232a96505649ae33b48dbdce6722ffc36330a168dd8",
+          "product": "MODIS Aqua Level-2 ocean color",
+          "granule_id": "AQUA_MODIS.20150308T184001.L2.OC.nc",
+          "delta_minutes": 47.43640833333333,
+          "overlap_fraction": 1.0,
+          "aggregation": "Quality-masked footprint geometric mean",
+          "selection_rule": "Frozen high-density matched reference; provisional geometric alignment",
+          "mask_flags": [
+            "Frozen high-density joint MODIS quality mask"
+          ],
+          "targets": {
+            "chlor_a": {
+              "value": 4.290250778198242,
+              "units": "mg/m\u00b3",
+              "valid_pixels": 2480,
+              "valid_fraction": 0.3626791459491079
+            },
+            "kd_490": {
+              "value": 0.3015381991863251,
+              "units": "m\u207b\u00b9",
+              "valid_pixels": 2480,
+              "valid_fraction": 0.3626791459491079
+            }
+          }
+        },
+        "difference": -0.18923352298181798
+      }
+    },
+    "history_count": 2,
+    "preview": {
+      "available": true,
+      "kind": "native_registered_crop",
+      "caption": "Registered native photo; scalar results refer to the saved footprint crop"
+    },
+    "limitations": "Frozen high-density outputs. Native-pixel overlays have separate models and unvalidated fine-scale accuracy."
+  },
+  "ISS042-E-99971": {
+    "id": "ISS042-E-99971",
+    "captured_at": "2015-01-06T11:21:35+00:00",
+    "latitude": 26.7636588490975,
+    "longitude": 54.3986357592344,
+    "mission": "ISS042",
+    "original_url": "https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS042&roll=E&frame=99971",
+    "metadata": {
+      "sun_elevation": 25.1355682704976,
+      "sun_azimuth": null,
+      "focal_length": null,
+      "water_fraction": 0.480779,
+      "earthmatch_inlier_count": 611.0,
+      "cloud_percent": 0.257874,
+      "location_source": "earthmatch_verified",
+      "named_water_features": [
+        {
+          "name": "Persian Gulf",
+          "type": "gulf"
+        }
+      ],
+      "catalog_source": "saved high-density catalog",
+      "input_contract": "high-density-20261109",
+      "reference_status": "quality_masked_reference_available"
+    },
+    "predictions": {
+      "chlor_a": {
+        "value": 1.2930737750819088,
+        "units": "mg/m\u00b3",
+        "model": {
+          "id": "high-density-chlor_a-hist_gradient_boosting_depth_4",
+          "name": "hist_gradient_boosting_depth_4",
+          "serving_enabled": false,
+          "test_metrics": {
+            "median_error_factor": 1.5243147941332658
+          },
+          "limitations": "Scalar photo-level evaluation; not pixel accuracy"
+        },
+        "run_id": "high-density-models-20261109",
+        "role": "held_out_test",
+        "split": "test",
+        "scene_group": "hd_e10eea49f1afae2e",
+        "evidence": {
+          "source": "frozen_high_density_export",
+          "image_sha256": "c05d7c86b27434159bde93e0d922d6d2fa700f5d514ecf7f27d3a006c260666c"
+        },
+        "confidence": {
+          "status": "unavailable"
+        },
+        "prediction_interval": {
+          "status": "unavailable"
+        },
+        "satellite": {
+          "id": "hd-reference-ISS042-E-99971",
+          "dataset_sha256": "f8507a1d2c6270103fff9475d49d5e0c9647a7bcb1de6b13d497780cb1c78a5c",
+          "product": "MODIS Aqua Level-2 ocean color",
+          "granule_id": "AQUA_MODIS.20150106T091500.L2.OC.nc",
+          "delta_minutes": 124.08503333333331,
+          "overlap_fraction": 1.0000000000000002,
+          "aggregation": "Quality-masked footprint geometric mean",
+          "selection_rule": "Frozen high-density matched reference; provisional geometric alignment",
+          "mask_flags": [
+            "Frozen high-density joint MODIS quality mask"
+          ],
+          "targets": {
+            "chlor_a": {
+              "value": 1.0884437561035156,
+              "units": "mg/m\u00b3",
+              "valid_pixels": 4027,
+              "valid_fraction": 0.257053491637942
+            },
+            "kd_490": {
+              "value": 0.1079050749540329,
+              "units": "m\u207b\u00b9",
+              "valid_pixels": 4027,
+              "valid_fraction": 0.257053491637942
+            }
+          }
+        },
+        "difference": 0.20463001897839317
+      },
+      "kd_490": {
+        "value": 0.12421205708021012,
+        "units": "m\u207b\u00b9",
+        "model": {
+          "id": "high-density-kd_490-hist_gradient_boosting_depth_4",
+          "name": "hist_gradient_boosting_depth_4",
+          "serving_enabled": false,
+          "test_metrics": {
+            "median_error_factor": 1.2427009605233483
+          },
+          "limitations": "Scalar photo-level evaluation; not pixel accuracy"
+        },
+        "run_id": "high-density-models-20261109",
+        "role": "held_out_test",
+        "split": "test",
+        "scene_group": "hd_e10eea49f1afae2e",
+        "evidence": {
+          "source": "frozen_high_density_export",
+          "image_sha256": "c05d7c86b27434159bde93e0d922d6d2fa700f5d514ecf7f27d3a006c260666c"
+        },
+        "confidence": {
+          "status": "unavailable"
+        },
+        "prediction_interval": {
+          "status": "unavailable"
+        },
+        "satellite": {
+          "id": "hd-reference-ISS042-E-99971",
+          "dataset_sha256": "f8507a1d2c6270103fff9475d49d5e0c9647a7bcb1de6b13d497780cb1c78a5c",
+          "product": "MODIS Aqua Level-2 ocean color",
+          "granule_id": "AQUA_MODIS.20150106T091500.L2.OC.nc",
+          "delta_minutes": 124.08503333333331,
+          "overlap_fraction": 1.0000000000000002,
+          "aggregation": "Quality-masked footprint geometric mean",
+          "selection_rule": "Frozen high-density matched reference; provisional geometric alignment",
+          "mask_flags": [
+            "Frozen high-density joint MODIS quality mask"
+          ],
+          "targets": {
+            "chlor_a": {
+              "value": 1.0884437561035156,
+              "units": "mg/m\u00b3",
+              "valid_pixels": 4027,
+              "valid_fraction": 0.257053491637942
+            },
+            "kd_490": {
+              "value": 0.1079050749540329,
+              "units": "m\u207b\u00b9",
+              "valid_pixels": 4027,
+              "valid_fraction": 0.257053491637942
+            }
+          }
+        },
+        "difference": 0.01630698212617722
+      }
+    },
+    "history_count": 2,
+    "preview": {
+      "available": true,
+      "kind": "native_registered_crop",
+      "caption": "Registered native photo; scalar results refer to the saved footprint crop"
+    },
+    "limitations": "Frozen high-density outputs. Native-pixel overlays have separate models and unvalidated fine-scale accuracy."
+  },
+  "ISS028-E-46109": {
+    "id": "ISS028-E-46109",
+    "captured_at": "2011-09-09T14:59:56+00:00",
+    "latitude": 49.2708222491812,
+    "longitude": -61.8395788079483,
+    "mission": "ISS028",
+    "original_url": "https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS028&roll=E&frame=46109",
+    "metadata": {
+      "sun_elevation": 44.1957252634369,
+      "sun_azimuth": null,
+      "focal_length": null,
+      "water_fraction": 0.771075,
+      "earthmatch_inlier_count": 134.0,
+      "cloud_percent": 0.0,
+      "location_source": "earthmatch_verified",
+      "named_water_features": [
+        {
+          "name": "Gulf of Saint Lawrence",
+          "type": "gulf"
+        }
+      ],
+      "catalog_source": "saved high-density catalog",
+      "input_contract": "high-density-20261109",
+      "reference_status": "quality_masked_reference_available"
+    },
+    "predictions": {
+      "chlor_a": {
+        "value": 0.782256416808943,
+        "units": "mg/m\u00b3",
+        "model": {
+          "id": "high-density-chlor_a-hist_gradient_boosting_depth_4",
+          "name": "hist_gradient_boosting_depth_4",
+          "serving_enabled": false,
+          "test_metrics": {
+            "median_error_factor": 1.5243147941332658
+          },
+          "limitations": "Scalar photo-level evaluation; not pixel accuracy"
+        },
+        "run_id": "high-density-models-20261109",
+        "role": "held_out_test",
+        "split": "test",
+        "scene_group": "hd_ec5aae8f1000b9e8",
+        "evidence": {
+          "source": "frozen_high_density_export",
+          "image_sha256": "6e0a4b1c05b81de971fb9b23ee10a120ab5d554afef306b48a7191cd4658805f"
+        },
+        "confidence": {
+          "status": "unavailable"
+        },
+        "prediction_interval": {
+          "status": "unavailable"
+        },
+        "satellite": {
+          "id": "hd-reference-ISS028-E-46109",
+          "dataset_sha256": "b7b81bb906710d75d37d17cbad691ed9cdd8aed78c8e339a44808e15f1ff954b",
+          "product": "MODIS Aqua Level-2 ocean color",
+          "granule_id": "AQUA_MODIS.20110909T164000.L2.OC.nc",
+          "delta_minutes": 102.56659166666668,
+          "overlap_fraction": 1.0000000000000002,
+          "aggregation": "Quality-masked footprint geometric mean",
+          "selection_rule": "Frozen high-density matched reference; provisional geometric alignment",
+          "mask_flags": [
+            "Frozen high-density joint MODIS quality mask"
+          ],
+          "targets": {
+            "chlor_a": {
+              "value": 1.2758543491363523,
+              "units": "mg/m\u00b3",
+              "valid_pixels": 2908,
+              "valid_fraction": 0.6995429396199182
+            },
+            "kd_490": {
+              "value": 0.1176044344902038,
+              "units": "m\u207b\u00b9",
+              "valid_pixels": 2908,
+              "valid_fraction": 0.6995429396199182
+            }
+          }
+        },
+        "difference": -0.49359793232740934
+      },
+      "kd_490": {
+        "value": 0.08100230677738006,
+        "units": "m\u207b\u00b9",
+        "model": {
+          "id": "high-density-kd_490-hist_gradient_boosting_depth_4",
+          "name": "hist_gradient_boosting_depth_4",
+          "serving_enabled": false,
+          "test_metrics": {
+            "median_error_factor": 1.2427009605233483
+          },
+          "limitations": "Scalar photo-level evaluation; not pixel accuracy"
+        },
+        "run_id": "high-density-models-20261109",
+        "role": "held_out_test",
+        "split": "test",
+        "scene_group": "hd_ec5aae8f1000b9e8",
+        "evidence": {
+          "source": "frozen_high_density_export",
+          "image_sha256": "6e0a4b1c05b81de971fb9b23ee10a120ab5d554afef306b48a7191cd4658805f"
+        },
+        "confidence": {
+          "status": "unavailable"
+        },
+        "prediction_interval": {
+          "status": "unavailable"
+        },
+        "satellite": {
+          "id": "hd-reference-ISS028-E-46109",
+          "dataset_sha256": "b7b81bb906710d75d37d17cbad691ed9cdd8aed78c8e339a44808e15f1ff954b",
+          "product": "MODIS Aqua Level-2 ocean color",
+          "granule_id": "AQUA_MODIS.20110909T164000.L2.OC.nc",
+          "delta_minutes": 102.56659166666668,
+          "overlap_fraction": 1.0000000000000002,
+          "aggregation": "Quality-masked footprint geometric mean",
+          "selection_rule": "Frozen high-density matched reference; provisional geometric alignment",
+          "mask_flags": [
+            "Frozen high-density joint MODIS quality mask"
+          ],
+          "targets": {
+            "chlor_a": {
+              "value": 1.2758543491363523,
+              "units": "mg/m\u00b3",
+              "valid_pixels": 2908,
+              "valid_fraction": 0.6995429396199182
+            },
+            "kd_490": {
+              "value": 0.1176044344902038,
+              "units": "m\u207b\u00b9",
+              "valid_pixels": 2908,
+              "valid_fraction": 0.6995429396199182
+            }
+          }
+        },
+        "difference": -0.03660212771282374
+      }
+    },
+    "history_count": 2,
+    "preview": {
+      "available": true,
+      "kind": "native_registered_crop",
+      "caption": "Registered native photo; scalar results refer to the saved footprint crop"
+    },
+    "limitations": "Frozen high-density outputs. Native-pixel overlays have separate models and unvalidated fine-scale accuracy."
+  },
+  "ISS030-E-30413": {
+    "id": "ISS030-E-30413",
+    "captured_at": "2011-12-31T12:25:54+00:00",
+    "latitude": 32.0776452475981,
+    "longitude": -9.7221733967385,
+    "mission": "ISS030",
+    "original_url": "https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS030&roll=E&frame=30413",
+    "metadata": {
+      "sun_elevation": 34.6699188792953,
+      "sun_azimuth": null,
+      "focal_length": null,
+      "water_fraction": 0.79035,
+      "earthmatch_inlier_count": 280.0,
+      "cloud_percent": 0.46539299999999995,
+      "location_source": "earthmatch_verified",
+      "named_water_features": [
+        {
+          "name": "Atlantic Ocean",
+          "type": "ocean"
+        }
+      ],
+      "catalog_source": "saved high-density catalog",
+      "input_contract": "high-density-20261109",
+      "reference_status": "quality_masked_reference_available"
+    },
+    "predictions": {
+      "chlor_a": {
+        "value": 0.4661882474856978,
+        "units": "mg/m\u00b3",
+        "model": {
+          "id": "high-density-chlor_a-hist_gradient_boosting_depth_4",
+          "name": "hist_gradient_boosting_depth_4",
+          "serving_enabled": false,
+          "test_metrics": {
+            "median_error_factor": 1.5243147941332658
+          },
+          "limitations": "Scalar photo-level evaluation; not pixel accuracy"
+        },
+        "run_id": "high-density-models-20261109",
+        "role": "held_out_test",
+        "split": "test",
+        "scene_group": "hd_69980190d6f6896b",
+        "evidence": {
+          "source": "frozen_high_density_export",
+          "image_sha256": "186075a72cc6bba927caf159bd039ce553de9459747e52d09386f3d8ad4b74e7"
+        },
+        "confidence": {
+          "status": "unavailable"
+        },
+        "prediction_interval": {
+          "status": "unavailable"
+        },
+        "satellite": {
+          "id": "hd-reference-ISS030-E-30413",
+          "dataset_sha256": "2e734f344f1c9b4e77c638bc07b91ebedbe23859b43217029fea91c6244e4c16",
+          "product": "MODIS Aqua Level-2 ocean color",
+          "granule_id": "AQUA_MODIS.20111231T140001.L2.OC.nc",
+          "delta_minutes": 96.61840833333332,
+          "overlap_fraction": 1.0,
+          "aggregation": "Quality-masked footprint geometric mean",
+          "selection_rule": "Frozen high-density matched reference; provisional geometric alignment",
+          "mask_flags": [
+            "Frozen high-density joint MODIS quality mask"
+          ],
+          "targets": {
+            "chlor_a": {
+              "value": 0.441618263721466,
+              "units": "mg/m\u00b3",
+              "valid_pixels": 10699,
+              "valid_fraction": 0.7036038405892411
+            },
+            "kd_490": {
+              "value": 0.0704916194081306,
+              "units": "m\u207b\u00b9",
+              "valid_pixels": 10699,
+              "valid_fraction": 0.7036038405892411
+            }
+          }
+        },
+        "difference": 0.024569983764231806
+      },
+      "kd_490": {
+        "value": 0.05996327165381773,
+        "units": "m\u207b\u00b9",
+        "model": {
+          "id": "high-density-kd_490-hist_gradient_boosting_depth_4",
+          "name": "hist_gradient_boosting_depth_4",
+          "serving_enabled": false,
+          "test_metrics": {
+            "median_error_factor": 1.2427009605233483
+          },
+          "limitations": "Scalar photo-level evaluation; not pixel accuracy"
+        },
+        "run_id": "high-density-models-20261109",
+        "role": "held_out_test",
+        "split": "test",
+        "scene_group": "hd_69980190d6f6896b",
+        "evidence": {
+          "source": "frozen_high_density_export",
+          "image_sha256": "186075a72cc6bba927caf159bd039ce553de9459747e52d09386f3d8ad4b74e7"
+        },
+        "confidence": {
+          "status": "unavailable"
+        },
+        "prediction_interval": {
+          "status": "unavailable"
+        },
+        "satellite": {
+          "id": "hd-reference-ISS030-E-30413",
+          "dataset_sha256": "2e734f344f1c9b4e77c638bc07b91ebedbe23859b43217029fea91c6244e4c16",
+          "product": "MODIS Aqua Level-2 ocean color",
+          "granule_id": "AQUA_MODIS.20111231T140001.L2.OC.nc",
+          "delta_minutes": 96.61840833333332,
+          "overlap_fraction": 1.0,
+          "aggregation": "Quality-masked footprint geometric mean",
+          "selection_rule": "Frozen high-density matched reference; provisional geometric alignment",
+          "mask_flags": [
+            "Frozen high-density joint MODIS quality mask"
+          ],
+          "targets": {
+            "chlor_a": {
+              "value": 0.441618263721466,
+              "units": "mg/m\u00b3",
+              "valid_pixels": 10699,
+              "valid_fraction": 0.7036038405892411
+            },
+            "kd_490": {
+              "value": 0.0704916194081306,
+              "units": "m\u207b\u00b9",
+              "valid_pixels": 10699,
+              "valid_fraction": 0.7036038405892411
+            }
+          }
+        },
+        "difference": -0.010528347754312876
+      }
+    },
+    "history_count": 2,
+    "preview": {
+      "available": true,
+      "kind": "native_registered_crop",
+      "caption": "Registered native photo; scalar results refer to the saved footprint crop"
+    },
+    "limitations": "Frozen high-density outputs. Native-pixel overlays have separate models and unvalidated fine-scale accuracy."
+  }
+}

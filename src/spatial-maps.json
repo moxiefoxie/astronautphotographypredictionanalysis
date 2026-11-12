@@ -1,0 +1,435 @@
+{
+  "ISS031-E-50002": {
+    "status": "available",
+    "url": "/spatial-maps/ISS031-E-50002-f80d9b94e64e10a1.json",
+    "asset_id": "02ee1b2ab5900438ea41cc24b4941e069477f4a2dcab300ad1fe972206ab9602",
+    "source_sha256": "2064d2c4622eaff85625cd8f953d81b23c52d39212d822278b7d0b8fe534beb4",
+    "regions": 28
+  },
+  "ISS073-E-210424": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS053-E-398468": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS059-E-114820": {
+    "status": "unsupported",
+    "reason": "verified_geometry_required"
+  },
+  "ISS065-E-300965": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS073-E-270594": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS067-E-127792": {
+    "status": "unsupported",
+    "reason": "photo_cloud_fraction_above_3pct"
+  },
+  "ISS067-E-127843": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS053-E-118145": {
+    "status": "unsupported",
+    "reason": "verified_geometry_required"
+  },
+  "ISS051-E-33543": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS071-E-252282": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS055-E-13266": {
+    "status": "unsupported",
+    "reason": "verified_geometry_required"
+  },
+  "ISS063-E-16050": {
+    "status": "unsupported",
+    "reason": "verified_geometry_required"
+  },
+  "ISS067-E-79768": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS073-E-270695": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS065-E-106441": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS062-E-55692": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS062-E-55799": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS071-E-252096": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS073-E-270739": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS065-E-300800": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS074-E-615258": {
+    "status": "unsupported",
+    "reason": "verified_geometry_required"
+  },
+  "ISS065-E-120265": {
+    "status": "available",
+    "url": "/spatial-maps/ISS065-E-120265-dbd51805bddc0f59.json",
+    "asset_id": "3d84c7d5dc24855998970cebc3b9f4ca2fe2acfaf6ca01cb8f2a91fcb5ac0ce6",
+    "source_sha256": "3b4cf036ccc92e5993ab8736dcdb3e07ac9a8ecd506dde981246d3644f4a72f9",
+    "regions": 31
+  },
+  "ISS073-E-270637": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS053-E-398552": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS053-E-181145": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS071-E-252194": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS043-E-130790": {
+    "status": "unsupported",
+    "reason": "photo_cloud_fraction_above_3pct"
+  },
+  "ISS074-E-615373": {
+    "status": "unsupported",
+    "reason": "verified_geometry_required"
+  },
+  "ISS067-E-127704": {
+    "status": "available",
+    "url": "/spatial-maps/ISS067-E-127704-1584048d52be8525.json",
+    "asset_id": "55951adeb8ac4791eb793982eb5b40df8bdd9397a837e2777b0dd83156553c70",
+    "source_sha256": "18d86d387195df865db11d84187218286edb3f8293f63932824b9caa2e32d220",
+    "regions": 17
+  },
+  "ISS051-E-22628": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS031-E-49953": {
+    "status": "unsupported",
+    "reason": "verified_geometry_required"
+  },
+  "ISS069-E-48196": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS031-E-49951": {
+    "status": "unsupported",
+    "reason": "verified_geometry_required"
+  },
+  "ISS067-E-127822": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS071-E-252255": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS063-E-16013": {
+    "status": "unsupported",
+    "reason": "verified_geometry_required"
+  },
+  "ISS067-E-128039": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS053-E-108890": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS065-E-300749": {
+    "status": "available",
+    "url": "/spatial-maps/ISS065-E-300749-48dba48a00ea0c0b.json",
+    "asset_id": "789fdbcf35eb34e15c6bed66d918590062627ddbe87cb3ebb45bff4a6a0d2b3c",
+    "source_sha256": "3177a424016a4910e652879e8d0caaabe9fb30271f2b474184a47ee082d62a02",
+    "regions": 11
+  },
+  "ISS069-E-48202": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS062-E-56013": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS069-E-48239": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS069-E-48315": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS067-E-127702": {
+    "status": "available",
+    "url": "/spatial-maps/ISS067-E-127702-fe82fc53106fadc8.json",
+    "asset_id": "83676cd78f4b2845a84476171729c72977b230809697b2e792e3586bff7428a2",
+    "source_sha256": "0a1583839986d6591c022b03aac4947b0231b92d594ff0e7958a2e14cfa4978c",
+    "regions": 19
+  },
+  "ISS073-E-471068": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS065-E-106414": {
+    "status": "unsupported",
+    "reason": "photo_cloud_fraction_above_3pct"
+  },
+  "ISS053-E-181152": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS053-E-126427": {
+    "status": "unsupported",
+    "reason": "verified_geometry_required"
+  },
+  "ISS065-E-300988": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS062-E-55926": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS067-E-128020": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS067-E-127694": {
+    "status": "available",
+    "url": "/spatial-maps/ISS067-E-127694-0ce57ed956d5db77.json",
+    "asset_id": "8f49182ef90ec588fe8c6ee9880ce12adc220aace679f041827772bd6502266d",
+    "source_sha256": "e885bb635e3aaf7691c3af91440631c68c0de4cb1874cc9d1a37f555d2ca93ad",
+    "regions": 16
+  },
+  "ISS042-E-101854": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS051-E-33260": {
+    "status": "unsupported",
+    "reason": "photo_cloud_fraction_above_3pct"
+  },
+  "ISS065-E-300705": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS053-E-398653": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS053-E-398631": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS062-E-55983": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS031-E-50058": {
+    "status": "available",
+    "url": "/spatial-maps/ISS031-E-50058-94a41219aa5c80fc.json",
+    "asset_id": "9f27122bac95b0ae2a895080f8b76dfcf01742a8be9f590efaa3b2a02249a32a",
+    "source_sha256": "884bdb6fdf1606c81a2d43f5720d9f96e9cf713d9676d618ebdf83628fd50cf2",
+    "regions": 14
+  },
+  "ISS042-E-333350": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS069-E-48310": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS067-E-127911": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS055-E-13186": {
+    "status": "available",
+    "url": "/spatial-maps/ISS055-E-13186-5ce9c6c3645863a1.json",
+    "asset_id": "ab3be59e39fdc5c8353da12ade601c79584688617c401eff6eae40d7a2f78ae3",
+    "source_sha256": "2f7c50d75155ac26f2418d13ca8903f0ee5af8d45d5d7d0b43c277e21582c266",
+    "regions": 51
+  },
+  "ISS053-E-450": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS053-E-103621": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS042-E-104328": {
+    "status": "unsupported",
+    "reason": "verified_geometry_required"
+  },
+  "ISS073-E-470968": {
+    "status": "available",
+    "url": "/spatial-maps/ISS073-E-470968-09b22a99f12f7945.json",
+    "asset_id": "b1161296ff00638adebb5d1b55eade34862500452133d480a1f7d823158d8875",
+    "source_sha256": "ab849d44a2fa058fb552419bf67322e47b1f4a1b869a750e42fc4f3f8f8237ad",
+    "regions": 24
+  },
+  "ISS067-E-127990": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS065-E-300806": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS073-E-270746": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS062-E-55747": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS073-E-470866": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS067-E-79784": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS067-E-127798": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS065-E-300975": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS073-E-470877": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS042-E-104446": {
+    "status": "unsupported",
+    "reason": "verified_geometry_required"
+  },
+  "ISS053-E-108924": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS051-E-33415": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS031-E-50039": {
+    "status": "unsupported",
+    "reason": "verified_geometry_required"
+  },
+  "ISS065-E-300928": {
+    "status": "available",
+    "url": "/spatial-maps/ISS065-E-300928-9632c7e13a751ae5.json",
+    "asset_id": "cab6fa1009e6314bd4506abdb8b8c65129725bc7e4f72f7c4a3fb0f5de82d3f3",
+    "source_sha256": "3146e91f1c0d2787f4619817ba4c42821f6c8a82916e5a941d0b27d7801e626d",
+    "regions": 48
+  },
+  "ISS062-E-55963": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS042-E-104322": {
+    "status": "unsupported",
+    "reason": "verified_geometry_required"
+  },
+  "ISS073-E-210441": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS042-E-104496": {
+    "status": "available",
+    "url": "/spatial-maps/ISS042-E-104496-2e68652d361ef10b.json",
+    "asset_id": "e1e8b793e8f20f5ca3f7f4899fd61ba73c2858393feb9b0becac890060511c4c",
+    "source_sha256": "268795f10d84f9da8b6fdb0a9132e15b0936d5dc251e8577e6d300298ed81a5d",
+    "regions": 30
+  },
+  "ISS065-E-300732": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS071-E-252346": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS031-E-50103": {
+    "status": "unsupported",
+    "reason": "verified_geometry_required"
+  },
+  "ISS063-E-16095": {
+    "status": "unsupported",
+    "reason": "verified_geometry_required"
+  },
+  "ISS073-E-210515": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS053-E-103637": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS065-E-301030": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS065-E-300652": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS065-E-300892": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS074-E-615284": {
+    "status": "unsupported",
+    "reason": "verified_geometry_required"
+  },
+  "ISS065-E-301077": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS071-E-252013": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS062-E-55874": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  },
+  "ISS073-E-210495": {
+    "status": "unsupported",
+    "reason": "footprint_outside_training_domain"
+  }
+}

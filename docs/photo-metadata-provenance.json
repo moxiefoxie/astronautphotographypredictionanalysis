@@ -1,0 +1,28 @@
+{
+  "matched_photos": 1343,
+  "source_sha256": {
+    "frames_2002.ndjson": "d45c3016b3410e2629a626624d637b60d11b5a9db0278a21e6cf5f820385f93d",
+    "frames_2003.ndjson": "028e94d33fa324f28969a102a5802ee956a17df5c719a7d71cf245b9a229232c",
+    "frames_2004.ndjson": "13fce4339f1842f268537f203005e8bef43fd5e0eb684340af6089eabf856fd6",
+    "frames_2005.ndjson": "0288db32aa6d13e27db717707da8eee28d897767c2dcab4185513361c90a3ea5",
+    "frames_2006.ndjson": "088a162aaf850c1db54ca329295952f12cf3306b373d7b798e35df3ee077cf5c",
+    "frames_2007.ndjson": "97661534da8606cc63f9d7581da7754e603058f9bd8bfc91a453f38cf3262696",
+    "frames_2008.ndjson": "6ad6c01b37a027cb6246cc28c2bb1384d9c488415b43848c05168a0fb945469d",
+    "frames_2009.ndjson": "4a455b4c18596b25c255c39dfb7478359bbe902984fdf9f8f42761845472f339",
+    "frames_2010.ndjson": "948be38ed42c94caac5a08269eb424e173d531f12174b45f5cdb60787431b34e",
+    "frames_2011.ndjson": "7078bfca8e104c910cbfe661a918c7df3495386591a12ab5e43cb8fff1a10264",
+    "frames_2012.ndjson": "4a1803fe283c32fbaa80ab740f2bb7bdc2b14460b791da61a3eaa0a5fdeaf878",
+    "frames_2013.ndjson": "82428119a000b9bb058b9d08e9bb6f5e9d95a340584cee15b848b0bcc3ac5ea7",
+    "frames_2014.ndjson": "38570e05413618c8cff4665a9724f2882e52c370e6a45407936ef990f4367d0d",
+    "frames_2015.ndjson": "fcd31386e7afd4d4cc3f8ce6efa8ba9c3cd866fa30cf589ec529097f1690ed6a",
+    "frames_2016.ndjson": "9aea9ac59e981dc298a48bb5ef9ec2d05399214052d0d7afeeca07fca94a626c",
+    "frames_2017.ndjson": "f895daf52172607755e30132bd9d12b5b140286d3c8a956ebb860a781e2e5952",
+    "frames_2018.ndjson": "1065d1ad8fa77cd4e3aeb29b3dc03c15ebbb6cf7602cae79803f50d0be8e7d2c",
+    "frames_2019.ndjson": "2f4814de418f308c85b4b20126918b81c5ce63b7a94fb847fa27e87213bd537f",
+    "frames_2020.ndjson": "01273d8479aed26cad29c1a0f2db1dceddd98d91fa2a6ad0249861915d816b36",
+    "frames_2021.ndjson": "4d0be9fea1c71f4e033822b464a9cfb4f6ca6b7d845ea96d65b156ec30b5f174",
+    "frames_2022.ndjson": "3628a350fa3c30ca6c23fb54e3b0c5b964e3fbaaf4d51c709cbf6105be9e361c",
+    "frames_2023.ndjson": "315cfab8f3c6d9b7d24586642ec1624c305f1970c560cda759eec8ba71944c46"
+  },
+  "purpose": "Display-only NASA metadata enrichment; frozen inference inputs are unchanged."
+}

@@ -1,0 +1,391 @@
+{
+  "schema": "appa-native-pixel-fullframe-v2",
+  "photos": [
+    {
+      "image_id": "ISS072-E-768322",
+      "width": 563,
+      "height": 563,
+      "split": "test",
+      "group": "hd_3bca38dd2e67d065",
+      "split_region": "R02C06",
+      "corners_latlon": [
+        [
+          -34.01774597167969,
+          135.01922607421875
+        ],
+        [
+          -34.223487854003906,
+          135.6893768310547
+        ],
+        [
+          -35.008018493652344,
+          135.29937744140625
+        ],
+        [
+          -34.824886322021484,
+          134.70611572265625
+        ]
+      ],
+      "valid_pixels": 115143,
+      "total_pixels": 316969,
+      "files": [
+        "ISS072-E-768322.npz",
+        "ISS072-E-768322_photo.jpg",
+        "ISS072-E-768322_chlor_a.png",
+        "ISS072-E-768322_kd_490.png"
+      ],
+      "sha256": {
+        "ISS072-E-768322.npz": "bf36ffbc27e373ae0eb3e87fdf674f37828f950cace62a4ebe7f717242ab3f29",
+        "ISS072-E-768322_photo.jpg": "a32c58513b7cda245c8b0b6fb4019773fe276934ba174a7e367a9a6c7ec88cc1",
+        "ISS072-E-768322_chlor_a.png": "21d740623ad348b368a65142f81ea4d0be92e99b9abf03a3c9f79e4a9c039941",
+        "ISS072-E-768322_kd_490.png": "cda1ae630b51aad55974cd1ed52d003e3e13da6504c425a46ebf9ce127412d2c"
+      },
+      "bytes": 913093,
+      "confidence": null,
+      "pixel_accuracy_validated": false,
+      "reference_used_at_inference": false,
+      "hardware_review_required": true,
+      "assets": {
+        "photo": "/native-maps/ISS072-E-768322_photo-a32c58513b7cda24.jpg",
+        "chlor_a": "/native-maps/ISS072-E-768322_chlor_a-21d740623ad348b3.png",
+        "kd_490": "/native-maps/ISS072-E-768322_kd_490-cda1ae630b51aad5.png",
+        "download": "/native-maps/ISS072-E-768322-bf36ffbc27e373ae.npz",
+        "values": "/native-maps/ISS072-E-768322-3022394675b01ab7.f32",
+        "values_sha256": "3022394675b01ab7562f48539ddf567921fcb8bad17b44a23b9d897b930e350a"
+      }
+    },
+    {
+      "image_id": "ISS071-E-683490",
+      "width": 500,
+      "height": 500,
+      "split": "test",
+      "group": "hd_8a18020e487753ce",
+      "split_region": "R03C05",
+      "corners_latlon": [
+        [
+          -25.364255905151367,
+          113.62884521484375
+        ],
+        [
+          -25.787107467651367,
+          113.994140625
+        ],
+        [
+          -26.214902877807617,
+          113.2855224609375
+        ],
+        [
+          -25.834089279174805,
+          112.96141815185547
+        ]
+      ],
+      "valid_pixels": 138121,
+      "total_pixels": 250000,
+      "files": [
+        "ISS071-E-683490.npz",
+        "ISS071-E-683490_photo.jpg",
+        "ISS071-E-683490_chlor_a.png",
+        "ISS071-E-683490_kd_490.png"
+      ],
+      "sha256": {
+        "ISS071-E-683490.npz": "e29d963c8f32d30f3b711afcb9fd123cf86bf3081804c27e7069610a35e396e2",
+        "ISS071-E-683490_photo.jpg": "2fc038639f5175a5d115a39f3027def60202caa20557ebddc5c11f14714a3a11",
+        "ISS071-E-683490_chlor_a.png": "eb221a22bfd3ab8aaa8e96ab83bf458040c09e3ce37385cdbcb55fa3e2bba9e4",
+        "ISS071-E-683490_kd_490.png": "d20eae54cf105464006e264c78b71d5006cdb7efb0c5a3b2f3d318ad1f42675c"
+      },
+      "bytes": 1068022,
+      "confidence": null,
+      "pixel_accuracy_validated": false,
+      "reference_used_at_inference": false,
+      "hardware_review_required": true,
+      "assets": {
+        "photo": "/native-maps/ISS071-E-683490_photo-2fc038639f5175a5.jpg",
+        "chlor_a": "/native-maps/ISS071-E-683490_chlor_a-eb221a22bfd3ab8a.png",
+        "kd_490": "/native-maps/ISS071-E-683490_kd_490-d20eae54cf105464.png",
+        "download": "/native-maps/ISS071-E-683490-e29d963c8f32d30f.npz",
+        "values": "/native-maps/ISS071-E-683490-e1b51cd812efe9f5.f32",
+        "values_sha256": "e1b51cd812efe9f51298362ccbd6a1ccddf8660aa13d4e3b227ec2e02f09b74b"
+      }
+    },
+    {
+      "image_id": "ISS042-E-316876",
+      "width": 334,
+      "height": 334,
+      "split": "test",
+      "group": "hd_edf130b50cbbb768",
+      "split_region": "R04C02",
+      "corners_latlon": [
+        [
+          28.68558120727539,
+          -80.28807830810547
+        ],
+        [
+          28.397098541259766,
+          -81.0076904296875
+        ],
+        [
+          29.204849243164062,
+          -81.3702392578125
+        ],
+        [
+          29.45486831665039,
+          -80.74676513671875
+        ]
+      ],
+      "valid_pixels": 46586,
+      "total_pixels": 111556,
+      "files": [
+        "ISS042-E-316876.npz",
+        "ISS042-E-316876_photo.jpg",
+        "ISS042-E-316876_chlor_a.png",
+        "ISS042-E-316876_kd_490.png"
+      ],
+      "sha256": {
+        "ISS042-E-316876.npz": "a240be79a179b3c65505e01ac21528a5fc71745126ddacc77240ef6973cc9baf",
+        "ISS042-E-316876_photo.jpg": "710188653ad70e3c270008cc36f0d60a30b0d4c3100a3a8e81f69a1eb2a7c5d5",
+        "ISS042-E-316876_chlor_a.png": "b32bed1b8160074716d37a3e90ac4ba2ca30893509c98639680d3c025a852c65",
+        "ISS042-E-316876_kd_490.png": "e640316e4b1793e34d932d83df9c2b34bd7cca994e1bf38fb5e54b83ba49bcfe"
+      },
+      "bytes": 373264,
+      "confidence": null,
+      "pixel_accuracy_validated": false,
+      "reference_used_at_inference": false,
+      "hardware_review_required": true,
+      "assets": {
+        "photo": "/native-maps/ISS042-E-316876_photo-710188653ad70e3c.jpg",
+        "chlor_a": "/native-maps/ISS042-E-316876_chlor_a-b32bed1b81600747.png",
+        "kd_490": "/native-maps/ISS042-E-316876_kd_490-e640316e4b1793e3.png",
+        "download": "/native-maps/ISS042-E-316876-a240be79a179b3c6.npz",
+        "values": "/native-maps/ISS042-E-316876-58e2b663d4f02933.f32",
+        "values_sha256": "58e2b663d4f029339ba4eb68db5102a5c3f8b7e0188ba3b20f937c35888a8a73"
+      }
+    },
+    {
+      "image_id": "ISS042-E-99971",
+      "width": 658,
+      "height": 658,
+      "split": "test",
+      "group": "hd_e10eea49f1afae2e",
+      "split_region": "R04C04",
+      "corners_latlon": [
+        [
+          26.895950317382812,
+          55.7830810546875
+        ],
+        [
+          25.717025756835938,
+          55.250244140625
+        ],
+        [
+          26.661144256591797,
+          53.3551025390625
+        ],
+        [
+          27.541667938232422,
+          53.76708984375
+        ]
+      ],
+      "valid_pixels": 162442,
+      "total_pixels": 432964,
+      "files": [
+        "ISS042-E-99971.npz",
+        "ISS042-E-99971_photo.jpg",
+        "ISS042-E-99971_chlor_a.png",
+        "ISS042-E-99971_kd_490.png"
+      ],
+      "sha256": {
+        "ISS042-E-99971.npz": "89945c3e0ae03ace38a4ef743b18bd9f5bfa9863e5b6e96e2ebfd5ded40be5b3",
+        "ISS042-E-99971_photo.jpg": "2c973a26df272014ae57f5d83e1eb6f222190d238b6b408da33bb5a3a826c204",
+        "ISS042-E-99971_chlor_a.png": "c7e3d2672c4582919eb6fcf5b9b3e445e79c95e9f982b665bfbc7259345bdf28",
+        "ISS042-E-99971_kd_490.png": "68d70b403afa139d02a7d0969e78e7ec738666cea0d7f1c342a3d4c5b57f65c3"
+      },
+      "bytes": 1276069,
+      "confidence": null,
+      "pixel_accuracy_validated": false,
+      "reference_used_at_inference": false,
+      "hardware_review_required": true,
+      "assets": {
+        "photo": "/native-maps/ISS042-E-99971_photo-2c973a26df272014.jpg",
+        "chlor_a": "/native-maps/ISS042-E-99971_chlor_a-c7e3d2672c458291.png",
+        "kd_490": "/native-maps/ISS042-E-99971_kd_490-68d70b403afa139d.png",
+        "download": "/native-maps/ISS042-E-99971-89945c3e0ae03ace.npz",
+        "values": "/native-maps/ISS042-E-99971-7c8b874a5f6b7f80.f32",
+        "values_sha256": "7c8b874a5f6b7f807fb6ac0cf97c20c4d8a5f18d7d195f8dc550197a5b0b98a3"
+      }
+    },
+    {
+      "image_id": "ISS028-E-46109",
+      "width": 259,
+      "height": 259,
+      "split": "test",
+      "group": "hd_ec5aae8f1000b9e8",
+      "split_region": "R05C02",
+      "corners_latlon": [
+        [
+          49.82725143432617,
+          -61.9244384765625
+        ],
+        [
+          49.56619644165039,
+          -61.122440338134766
+        ],
+        [
+          48.82952117919922,
+          -61.7706298828125
+        ],
+        [
+          49.04051208496094,
+          -62.391353607177734
+        ]
+      ],
+      "valid_pixels": 45537,
+      "total_pixels": 67081,
+      "files": [
+        "ISS028-E-46109.npz",
+        "ISS028-E-46109_photo.jpg",
+        "ISS028-E-46109_chlor_a.png",
+        "ISS028-E-46109_kd_490.png"
+      ],
+      "sha256": {
+        "ISS028-E-46109.npz": "523d829d6a153cc577bded274f7bebcb29c1dcb549ed93c663915354bd74cee6",
+        "ISS028-E-46109_photo.jpg": "abe1223908d34ca2e6ffb266c112f73d9ba3bdfb6e4e28f6d98be5312d79f904",
+        "ISS028-E-46109_chlor_a.png": "a965f67aded97863153ac1437d314e368d42743051733dabef45d49d64ea863b",
+        "ISS028-E-46109_kd_490.png": "4b0d29be69940d435abd41f13e47336cf592a4dda2c92e16251a728689b50013"
+      },
+      "bytes": 346322,
+      "confidence": null,
+      "pixel_accuracy_validated": false,
+      "reference_used_at_inference": false,
+      "hardware_review_required": true,
+      "assets": {
+        "photo": "/native-maps/ISS028-E-46109_photo-abe1223908d34ca2.jpg",
+        "chlor_a": "/native-maps/ISS028-E-46109_chlor_a-a965f67aded97863.png",
+        "kd_490": "/native-maps/ISS028-E-46109_kd_490-4b0d29be69940d43.png",
+        "download": "/native-maps/ISS028-E-46109-523d829d6a153cc5.npz",
+        "values": "/native-maps/ISS028-E-46109-2445faaf06957433.f32",
+        "values_sha256": "2445faaf06957433371dc0b1994d60edac05d4dd187154b2c25b131d52bc3541"
+      }
+    },
+    {
+      "image_id": "ISS030-E-30413",
+      "width": 459,
+      "height": 459,
+      "split": "test",
+      "group": "hd_69980190d6f6896b",
+      "split_region": "R05C03",
+      "corners_latlon": [
+        [
+          31.170982360839844,
+          -10.478214263916016
+        ],
+        [
+          32.18471908569336,
+          -10.769354820251465
+        ],
+        [
+          32.776649475097656,
+          -9.126886367797852
+        ],
+        [
+          31.99129295349121,
+          -8.849479675292969
+        ]
+      ],
+      "valid_pixels": 150370,
+      "total_pixels": 210681,
+      "files": [
+        "ISS030-E-30413.npz",
+        "ISS030-E-30413_photo.jpg",
+        "ISS030-E-30413_chlor_a.png",
+        "ISS030-E-30413_kd_490.png"
+      ],
+      "sha256": {
+        "ISS030-E-30413.npz": "9f74801bcb41b6137b980b21620c27eabf79c21be2c502e54fad797d92d86a6a",
+        "ISS030-E-30413_photo.jpg": "7379fc48e58930de77402befafefc5b4044306e540460f7c935ae0545fd4daa0",
+        "ISS030-E-30413_chlor_a.png": "c3e4c7c94a30665811f42b1b5fe7aa5efeceba79a9229e4ff379264c78ac2cc6",
+        "ISS030-E-30413_kd_490.png": "4920fefe35e5f6be288fa10811bf9f067b529a6f8627882653cd96d4b7cacecf"
+      },
+      "bytes": 1128337,
+      "confidence": null,
+      "pixel_accuracy_validated": false,
+      "reference_used_at_inference": false,
+      "hardware_review_required": true,
+      "assets": {
+        "photo": "/native-maps/ISS030-E-30413_photo-7379fc48e58930de.jpg",
+        "chlor_a": "/native-maps/ISS030-E-30413_chlor_a-c3e4c7c94a306658.png",
+        "kd_490": "/native-maps/ISS030-E-30413_kd_490-4920fefe35e5f6be.png",
+        "download": "/native-maps/ISS030-E-30413-9f74801bcb41b613.npz",
+        "values": "/native-maps/ISS030-E-30413-6373888e56ecd9a1.f32",
+        "values_sha256": "6373888e56ecd9a14e542df917b95210427ce63ab2820d07b0b6c9ef26d17991"
+      }
+    }
+  ],
+  "bytes": 5105107,
+  "maximum_bytes": 262144000,
+  "checkpoint_sha256": "64de3264e53317f2b15d9c97f097ce25c9444f6208bb81bad243a81532085e1d",
+  "scales_log10": {
+    "chlor_a": [
+      -2,
+      1
+    ],
+    "kd_490": [
+      -2,
+      0.3
+    ]
+  },
+  "supabase_uploads": 0,
+  "inference_version": "fullframe-v2",
+  "interpretation": "Single full-photo native predictions with a pixelwise heuristic offshore/RGB mask. Fine-scale accuracy and pixel confidence are unvalidated; hardware review pending.",
+  "packaged_bytes": 16219115,
+  "preparation": {
+    "complete": true,
+    "photos": 100,
+    "regions": 400,
+    "splits": {
+      "train": 60,
+      "validation": 15,
+      "test": 25
+    },
+    "groups": {
+      "test": 20,
+      "train": 49,
+      "validation": 12
+    },
+    "geographic_bins": {
+      "R05C03": 26,
+      "R05C04": 23,
+      "R04C02": 17,
+      "R04C04": 9,
+      "R05C02": 8,
+      "R03C05": 6,
+      "R02C06": 4,
+      "R02C02": 2,
+      "R03C02": 2,
+      "R04C05": 2,
+      "R04C03": 1
+    },
+    "attempted": 129,
+    "hardware_screen_available": false,
+    "native_pixel_m_range": [
+      35.850226843972486,
+      382.5580854937422
+    ],
+    "source_cohort_photos": 26720,
+    "source_rows": 207984,
+    "native_pixel_accuracy_validated": false
+  },
+  "metrics": [
+    {
+      "target": "chlor_a",
+      "test_group_log_mae": 0.3786895317466631,
+      "constant_group_log_mae": 0.41426119208335876,
+      "original_region_inference_log_mae": 0.341377317905426
+    },
+    {
+      "target": "kd_490",
+      "test_group_log_mae": 0.2281660225182792,
+      "constant_group_log_mae": 0.24973773956298828,
+      "original_region_inference_log_mae": 0.21077868342399597
+    }
+  ]
+}
